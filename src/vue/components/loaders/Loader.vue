@@ -9,7 +9,7 @@
          }">
         <!-- Loader Content -->
         <div class="resume-loader-content">
-            <ImageView src="images/icons/resume.ico"
+            <ImageView src="images/icons/embedded-systems.svg"
                        alt="Logo"
                        class="image-view-logo"
                        :class="{
@@ -263,8 +263,8 @@ div.resume-loader-content {
 }
 
 div.image-view-logo {
-    width: 60px;
-    height: 60px;
+    width: 110px;
+    height: 110px;
     z-index: 10;
     opacity: 0;
 
