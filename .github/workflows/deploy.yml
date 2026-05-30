@@ -32,6 +32,16 @@ jobs:
       - name: Build project
         run: npm run build
 
+      # Fail fast if output still references source entry instead of bundled assets.
+      - name: Validate build output
+        run: |
+          test -f dist/index.html
+          if grep -q '/src/main.js' dist/index.html; then
+            echo "Build output is invalid: dist/index.html still references /src/main.js"
+            exit 1
+          fi
+          grep -q '/assets/' dist/index.html
+
       # Deploy to GitHub pages
       - name: Deploy to GitHub pages
         uses: peaceiris/actions-gh-pages@v3
