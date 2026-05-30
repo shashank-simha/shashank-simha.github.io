@@ -3,7 +3,8 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: '/vue-resume-template/',
+    // For <username>.github.io repositories, deploy from root.
+    base: '/',
     plugins: [vue()],
     css: {
         preprocessorOptions: {
