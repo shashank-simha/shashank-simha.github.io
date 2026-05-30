@@ -1,0 +1,222 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticlePortfolio",
+      "locales": {
+        "en": {
+          "title": null,
+          "category_all": "All",
+          "category_embedded": "Embedded",
+          "category_iot": "IoT",
+          "category_software": "Software"
+        },
+        "de": {
+          "title": null,
+          "category_all": "All",
+          "category_embedded": "Embedded",
+          "category_iot": "IoT",
+          "category_software": "Software"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-industry",
+          "fallbackFaIconColor": "#2f8f65",
+          "category": "embedded",
+          "locales": {
+            "en": {
+              "title": "Adaptive Embedded Control System",
+              "description": "Adaptive fuzzy PID control for an industrial furnace with wireless-sensor-network based data aggregation and processing.",
+              "tags": [
+                "Embedded",
+                "Control Systems",
+                "Fuzzy PID"
+              ]
+            },
+            "de": {
+              "title": "Adaptive Embedded Control System",
+              "description": "Adaptive fuzzy PID control for an industrial furnace with wireless-sensor-network based data aggregation and processing.",
+              "tags": [
+                "Embedded",
+                "Control Systems",
+                "Fuzzy PID"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/Adaptive-Embedded-Control-System",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-gauge-high",
+          "fallbackFaIconColor": "#b56b2f",
+          "category": "iot",
+          "locales": {
+            "en": {
+              "title": "Smart Speed Governor",
+              "description": "IoT app to limit vehicle speed based on real-time traffic density.",
+              "tags": [
+                "IoT",
+                "Vehicle Systems",
+                "Real-time"
+              ]
+            },
+            "de": {
+              "title": "Smart Speed Governor",
+              "description": "IoT app to limit vehicle speed based on real-time traffic density.",
+              "tags": [
+                "IoT",
+                "Vehicle Systems",
+                "Real-time"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/Smart-Speed-Governor",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-heart-pulse",
+          "fallbackFaIconColor": "#7f5aa2",
+          "category": "software",
+          "locales": {
+            "en": {
+              "title": "ECG Data Reduction Algorithms",
+              "description": "AZTEC, TP, and DCT algorithms to compress ECG data efficiently.",
+              "tags": [
+                "Signal Processing",
+                "Algorithms",
+                "Python"
+              ]
+            },
+            "de": {
+              "title": "ECG Data Reduction Algorithms",
+              "description": "AZTEC, TP, and DCT algorithms to compress ECG data efficiently.",
+              "tags": [
+                "Signal Processing",
+                "Algorithms",
+                "Python"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/ECG-Compression",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-terminal",
+          "fallbackFaIconColor": "#7b7b7b",
+          "category": "software",
+          "locales": {
+            "en": {
+              "title": "OS Scheduling Algorithms",
+              "description": "FCFS, SJN, Round Robin, and Priority scheduling algorithms for OS performance analysis.",
+              "tags": [
+                "Operating Systems",
+                "Scheduling",
+                "Algorithms"
+              ]
+            },
+            "de": {
+              "title": "OS Scheduling Algorithms",
+              "description": "FCFS, SJN, Round Robin, and Priority scheduling algorithms for OS performance analysis.",
+              "tags": [
+                "Operating Systems",
+                "Scheduling",
+                "Algorithms"
+              ]
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 5,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-display",
+          "fallbackFaIconColor": "#6b5cc5",
+          "category": "software",
+          "locales": {
+            "en": {
+              "title": "Presenter",
+              "description": "Android app for remote presentation control using RevealJS and Firebase.",
+              "tags": [
+                "Android",
+                "Firebase",
+                "Presentation Tools"
+              ]
+            },
+            "de": {
+              "title": "Presenter",
+              "description": "Android app for remote presentation control using RevealJS and Firebase.",
+              "tags": [
+                "Android",
+                "Firebase",
+                "Presentation Tools"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/Presenter",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIconColor": "#2078a8",
+          "category": "embedded",
+          "locales": {
+            "en": {
+              "title": "FreeRTOS Projects",
+              "description": "ESP32-based real-time features and embedded application experiments.",
+              "tags": [
+                "FreeRTOS",
+                "ESP32",
+                "Embedded"
+              ]
+            },
+            "de": {
+              "title": "FreeRTOS Projects",
+              "description": "ESP32-based real-time features and embedded application experiments.",
+              "tags": [
+                "FreeRTOS",
+                "ESP32",
+                "Embedded"
+              ]
+            }
+          },
+          "links": []
+        }
+      ]
+    }
+  ]
+}

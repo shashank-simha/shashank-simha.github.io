@@ -1,0 +1,141 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "settings": {
+        "order_items_by": "dateStart",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2023,
+            "month": 10
+          },
+          "dateEnd": {
+            "string": "now"
+          },
+          "img": "images/places/logo-tum.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Master of Science in Communications and Electronics Engineering",
+              "description": "Graduate program focused on embedded systems, secure IoT architecture, and SoC technologies at TUM (CGPA: 1.7 on German scale).",
+              "province": "Munich",
+              "country": "Germany",
+              "institution": "Technical University of Munich",
+              "tags": []
+            },
+            "de": {
+              "title": "Master of Science in Communications and Electronics Engineering",
+              "description": "Graduate program focused on embedded systems, secure IoT architecture, and SoC technologies at TUM (CGPA: 1.7 on German scale).",
+              "province": "Munich",
+              "country": "Germany",
+              "institution": "Technical University of Munich",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2016,
+            "month": 8
+          },
+          "dateEnd": {
+            "year": 2020,
+            "month": 8
+          },
+          "img": "images/places/logo-nie.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Bachelor of Engineering in Electronics and Communication",
+              "description": "Undergraduate engineering degree with strong foundations in electronics, communication systems, and core embedded fundamentals at NIE (CGPA: 9.08 on 10-point scale).",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "The National Institute of Engineering",
+              "tags": []
+            },
+            "de": {
+              "title": "Bachelor of Engineering in Electronics and Communication",
+              "description": "Undergraduate engineering degree with strong foundations in electronics, communication systems, and core embedded fundamentals at NIE (CGPA: 9.08 on 10-point scale).",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "The National Institute of Engineering",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2014,
+            "month": 7
+          },
+          "dateEnd": {
+            "year": 2016,
+            "month": 4
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-graduation-cap",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Pre-University (11th and 12th)",
+              "description": "Completed pre-university education (11th and 12th) at Maharaja's Pre-University College with a 12th score of 92.50%.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "Maharaja's Pre-University College",
+              "tags": []
+            },
+            "de": {
+              "title": "Pre-University (11th and 12th)",
+              "description": "Completed pre-university education (11th and 12th) at Maharaja's Pre-University College with a 12th score of 92.50%.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "Maharaja's Pre-University College",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2003,
+            "month": 6
+          },
+          "dateEnd": {
+            "year": 2014,
+            "month": 4
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-graduation-cap",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Matriculation / School Education",
+              "description": "Completed primary and high school education at JSS High School with a 10th score of 92.80%.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "JSS High School",
+              "tags": []
+            },
+            "de": {
+              "title": "Matriculation / School Education",
+              "description": "Completed primary and high school education at JSS High School with a 10th score of 92.80%.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "JSS High School",
+              "tags": []
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
