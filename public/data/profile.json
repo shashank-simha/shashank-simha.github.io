@@ -1,0 +1,79 @@
+{
+  "name": "Shashank Simha",
+  "profilePictureUrl": "images/pictures/avatar.jpg",
+  "locales": {
+    "en": {
+      "credits": null,
+      "role": "Embedded Systems Engineer"
+    },
+    "de": {
+      "credits": null,
+      "role": "Embedded Systems Engineer"
+    }
+  },
+  "contactOptions": [
+    {
+      "id": "address",
+      "faIcon": "fa-regular fa-map",
+      "href": null,
+      "locales": {
+        "en": {
+          "value": "Munich, Germany",
+          "valueShort": "Munich, Germany"
+        },
+        "de": {
+          "value": "München, Deutschland",
+          "valueShort": "München, Deutschland"
+        }
+      }
+    },
+    {
+      "id": "email",
+      "value": "shashanksimha183@gmail.com",
+      "valueShort": "shashanksimha183@gmail.com",
+      "faIcon": "fa-regular fa-envelope",
+      "href": "mailto:shashanksimha183@gmail.com",
+      "copy": true
+    },
+    {
+      "id": "github",
+      "value": "@shashank-simha",
+      "valueShort": "@shashank-simha",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/shashank-simha",
+      "copy": false
+    },
+    {
+      "id": "linkedin",
+      "value": "shashank-simha",
+      "valueShort": "shashank-simha",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://www.linkedin.com/in/shashank-simha/",
+      "copy": false
+    },
+    {
+      "id": "instagram",
+      "value": "simha_shashank",
+      "valueShort": "@simha_shashank",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://www.instagram.com/simha_shashank/",
+      "copy": false
+    },
+    {
+      "id": "phone",
+      "value": "+49 17665636096",
+      "valueShort": "+49 17665636096",
+      "faIcon": "fa-solid fa-phone",
+      "href": "tel:+4917665636096",
+      "copy": true
+    },
+    {
+      "id": "download_resume",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-solid fa-file-pdf",
+      "href": "/pdf/resume.pdf",
+      "copy": false
+    }
+  ]
+}

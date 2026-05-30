@@ -1,0 +1,86 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Interests"
+        },
+        "de": {
+          "title": "Interests"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 1,
+        "transparent_item_icon_background": false,
+        "small_icons": true,
+        "chart": "pie"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-book",
+          "fallbackFaIconColor": "#36A2EB",
+          "percentage": 40,
+          "locales": {
+            "en": {
+              "title": "Reading",
+              "description": "Reading technical material and long-form fiction.",
+              "level": null
+            },
+            "de": {
+              "title": "Reading",
+              "description": "Reading technical material and long-form fiction.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-person-swimming",
+          "fallbackFaIconColor": "#2f8f65",
+          "percentage": 30,
+          "locales": {
+            "en": {
+              "title": "Swimming",
+              "description": "Regular swimming for fitness and focus.",
+              "level": null
+            },
+            "de": {
+              "title": "Swimming",
+              "description": "Regular swimming for fitness and focus.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-laptop-code",
+          "fallbackFaIconColor": "#b56b2f",
+          "percentage": 30,
+          "locales": {
+            "en": {
+              "title": "Tinkering and Side Projects",
+              "description": "Experimenting with embedded builds and practical automation ideas.",
+              "level": null
+            },
+            "de": {
+              "title": "Tinkering and Side Projects",
+              "description": "Experimenting with embedded builds and practical automation ideas.",
+              "level": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
