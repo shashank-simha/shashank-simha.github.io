@@ -61,47 +61,13 @@
         {
           "id": 2,
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-gauge-high",
-          "fallbackFaIconColor": "#b56b2f",
-          "category": "iot",
-          "locales": {
-            "en": {
-              "title": "Smart Speed Governor",
-              "description": "IoT app to limit vehicle speed based on real-time traffic density.",
-              "tags": [
-                "IoT",
-                "Vehicle Systems",
-                "Real-time"
-              ]
-            },
-            "de": {
-              "title": "Smart Speed Governor",
-              "description": "IoT app to limit vehicle speed based on real-time traffic density.",
-              "tags": [
-                "IoT",
-                "Vehicle Systems",
-                "Real-time"
-              ]
-            }
-          },
-          "links": [
-            {
-              "faIcon": "fa-brands fa-github",
-              "href": "https://github.com/shashank-simha/Smart-Speed-Governor",
-              "stringKey": "view_more_info"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": null,
           "fallbackFaIcon": "fa-solid fa-heart-pulse",
           "fallbackFaIconColor": "#7f5aa2",
           "category": "software",
           "locales": {
             "en": {
-              "title": "ECG Data Reduction Algorithms",
-              "description": "AZTEC, TP, and DCT algorithms to compress ECG data efficiently.",
+              "title": "ECG Signal Compression Comparison",
+              "description": "Comparative analysis of AZTEC, DCT, and Turning Point ECG compression with ratio and fidelity metrics.",
               "tags": [
                 "Signal Processing",
                 "Algorithms",
@@ -109,8 +75,8 @@
               ]
             },
             "de": {
-              "title": "ECG Data Reduction Algorithms",
-              "description": "AZTEC, TP, and DCT algorithms to compress ECG data efficiently.",
+              "title": "ECG Signal Compression Comparison",
+              "description": "Comparative analysis of AZTEC, DCT, and Turning Point ECG compression with ratio and fidelity metrics.",
               "tags": [
                 "Signal Processing",
                 "Algorithms",
@@ -127,35 +93,7 @@
           ]
         },
         {
-          "id": 4,
-          "img": null,
-          "fallbackFaIcon": "fa-solid fa-terminal",
-          "fallbackFaIconColor": "#7b7b7b",
-          "category": "software",
-          "locales": {
-            "en": {
-              "title": "OS Scheduling Algorithms",
-              "description": "FCFS, SJN, Round Robin, and Priority scheduling algorithms for OS performance analysis.",
-              "tags": [
-                "Operating Systems",
-                "Scheduling",
-                "Algorithms"
-              ]
-            },
-            "de": {
-              "title": "OS Scheduling Algorithms",
-              "description": "FCFS, SJN, Round Robin, and Priority scheduling algorithms for OS performance analysis.",
-              "tags": [
-                "Operating Systems",
-                "Scheduling",
-                "Algorithms"
-              ]
-            }
-          },
-          "links": []
-        },
-        {
-          "id": 5,
+          "id": 3,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-display",
           "fallbackFaIconColor": "#6b5cc5",
@@ -163,20 +101,20 @@
           "locales": {
             "en": {
               "title": "Presenter",
-              "description": "Android app for remote presentation control using RevealJS and Firebase.",
+              "description": "Android app for remote presentation control with Firebase sync for RevealJS/SlidesJS decks.",
               "tags": [
                 "Android",
                 "Firebase",
-                "Presentation Tools"
+                "Java"
               ]
             },
             "de": {
               "title": "Presenter",
-              "description": "Android app for remote presentation control using RevealJS and Firebase.",
+              "description": "Android app for remote presentation control with Firebase sync for RevealJS/SlidesJS decks.",
               "tags": [
                 "Android",
                 "Firebase",
-                "Presentation Tools"
+                "Java"
               ]
             }
           },
@@ -189,32 +127,310 @@
           ]
         },
         {
+          "id": 4,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-terminal",
+          "fallbackFaIconColor": "#7b7b7b",
+          "category": "software",
+          "locales": {
+            "en": {
+              "title": "Scheduling Algorithms Simulator",
+              "description": "C++ simulator for FCFS, Round Robin, SJN, and Priority scheduling with waiting and turnaround analysis.",
+              "tags": [
+                "Operating Systems",
+                "Scheduling",
+                "C++"
+              ]
+            },
+            "de": {
+              "title": "Scheduling Algorithms Simulator",
+              "description": "C++ simulator for FCFS, Round Robin, SJN, and Priority scheduling with waiting and turnaround analysis.",
+              "tags": [
+                "Operating Systems",
+                "Scheduling",
+                "C++"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/Scheduling-Algorithms",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-gauge-high",
+          "fallbackFaIconColor": "#b56b2f",
+          "category": "iot",
+          "locales": {
+            "en": {
+              "title": "Smart Speed Governor",
+              "description": "Raspberry Pi plus PHP/MySQL IoT system to regulate vehicle speed based on GPS location traffic limits.",
+              "tags": [
+                "IoT",
+                "Raspberry Pi",
+                "Python"
+              ]
+            },
+            "de": {
+              "title": "Smart Speed Governor",
+              "description": "Raspberry Pi plus PHP/MySQL IoT system to regulate vehicle speed based on GPS location traffic limits.",
+              "tags": [
+                "IoT",
+                "Raspberry Pi",
+                "Python"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/Smart-Speed-Governor",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
           "id": 6,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-globe",
+          "fallbackFaIconColor": "#355c7d",
+          "category": "software",
+          "locales": {
+            "en": {
+              "title": "AISYWC 2018 Event Website",
+              "description": "IEEE conference website with responsive multi-page layout, event schedule, speaker profiles, and online registration.",
+              "tags": [
+                "Web Development",
+                "JavaScript",
+                "Bootstrap"
+              ]
+            },
+            "de": {
+              "title": "AISYWC 2018 Event Website",
+              "description": "IEEE conference website with responsive multi-page layout, event schedule, speaker profiles, and online registration.",
+              "tags": [
+                "Web Development",
+                "JavaScript",
+                "Bootstrap"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/AISYWC",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-location-dot",
+          "fallbackFaIconColor": "#3d8f8a",
+          "category": "iot",
+          "locales": {
+            "en": {
+              "title": "RSSI-based Localization Robot",
+              "description": "Embedded localization system using Zigbee RSSI and odometry on MSP432 for autonomous navigation.",
+              "tags": [
+                "Zigbee",
+                "Localization",
+                "Embedded C"
+              ]
+            },
+            "de": {
+              "title": "RSSI-based Localization Robot",
+              "description": "Embedded localization system using Zigbee RSSI and odometry on MSP432 for autonomous navigation.",
+              "tags": [
+                "Zigbee",
+                "Localization",
+                "Embedded C"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/RSSI-based-Localization",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-brain",
+          "fallbackFaIconColor": "#4c7a2b",
+          "category": "embedded",
+          "locales": {
+            "en": {
+              "title": "EmbeddedML",
+              "description": "Arduino library for embedded ML on ESP32 with AIfES integration and reusable model and dataset abstractions.",
+              "tags": [
+                "Embedded ML",
+                "ESP32",
+                "Arduino"
+              ]
+            },
+            "de": {
+              "title": "EmbeddedML",
+              "description": "Arduino library for embedded ML on ESP32 with AIfES integration and reusable model and dataset abstractions.",
+              "tags": [
+                "Embedded ML",
+                "ESP32",
+                "Arduino"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/EmbeddedML",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 9,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-microchip",
           "fallbackFaIconColor": "#2078a8",
           "category": "embedded",
           "locales": {
             "en": {
-              "title": "FreeRTOS Projects",
-              "description": "ESP32-based real-time features and embedded application experiments.",
+              "title": "STM32 FreeRTOS Examples",
+              "description": "STM32F446 FreeRTOS exercises implementing tasks, semaphores, mutexes, queues, and real-time scheduling patterns.",
               "tags": [
                 "FreeRTOS",
-                "ESP32",
-                "Embedded"
+                "STM32",
+                "Embedded Systems"
               ]
             },
             "de": {
-              "title": "FreeRTOS Projects",
-              "description": "ESP32-based real-time features and embedded application experiments.",
+              "title": "STM32 FreeRTOS Examples",
+              "description": "STM32F446 FreeRTOS exercises implementing tasks, semaphores, mutexes, queues, and real-time scheduling patterns.",
               "tags": [
                 "FreeRTOS",
-                "ESP32",
-                "Embedded"
+                "STM32",
+                "Embedded Systems"
               ]
             }
           },
-          "links": []
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/STM32-FreeRTOS",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-memory",
+          "fallbackFaIconColor": "#856f3c",
+          "category": "embedded",
+          "locales": {
+            "en": {
+              "title": "STM32 Bare-Metal Development",
+              "description": "Bare-metal STM32F446 projects demonstrating startup code, GPIO, interrupts, and low-level toolchain workflows.",
+              "tags": [
+                "Bare Metal",
+                "STM32",
+                "ARM Cortex-M"
+              ]
+            },
+            "de": {
+              "title": "STM32 Bare-Metal Development",
+              "description": "Bare-metal STM32F446 projects demonstrating startup code, GPIO, interrupts, and low-level toolchain workflows.",
+              "tags": [
+                "Bare Metal",
+                "STM32",
+                "ARM Cortex-M"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/STM32-BareMetal",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-wifi",
+          "fallbackFaIconColor": "#3f7991",
+          "category": "iot",
+          "locales": {
+            "en": {
+              "title": "NSoC5.0 IoT Project Suite",
+              "description": "ESP32 IoT mini-project suite featuring WiFi server, Bluetooth control, OTA updates, sensor logging, and demos.",
+              "tags": [
+                "ESP32",
+                "IoT",
+                "Arduino"
+              ]
+            },
+            "de": {
+              "title": "NSoC5.0 IoT Project Suite",
+              "description": "ESP32 IoT mini-project suite featuring WiFi server, Bluetooth control, OTA updates, sensor logging, and demos.",
+              "tags": [
+                "ESP32",
+                "IoT",
+                "Arduino"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/NSoC5.0",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-code-branch",
+          "fallbackFaIconColor": "#6f6f6f",
+          "category": "software",
+          "locales": {
+            "en": {
+              "title": "Quine-McCluskey Boolean Minimizer",
+              "description": "Python CLI and library implementation of the Quine-McCluskey algorithm to simplify Boolean expressions.",
+              "tags": [
+                "Python",
+                "Digital Logic",
+                "Algorithms"
+              ]
+            },
+            "de": {
+              "title": "Quine-McCluskey Boolean Minimizer",
+              "description": "Python CLI and library implementation of the Quine-McCluskey algorithm to simplify Boolean expressions.",
+              "tags": [
+                "Python",
+                "Digital Logic",
+                "Algorithms"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/shashank-simha/QuineMccluskey",
+              "stringKey": "view_more_info"
+            }
+          ]
         }
       ]
     }
