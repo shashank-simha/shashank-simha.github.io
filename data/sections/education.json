@@ -12,7 +12,7 @@
           "id": 1,
           "dateStart": {
             "year": 2023,
-            "month": 10
+            "month": 9
           },
           "dateEnd": {
             "string": "now"
@@ -43,11 +43,11 @@
           "id": 2,
           "dateStart": {
             "year": 2016,
-            "month": 8
+            "month": 7
           },
           "dateEnd": {
             "year": 2020,
-            "month": 8
+            "month": 7
           },
           "img": "images/places/logo-nie.png",
           "fallbackFaIcon": null,
@@ -75,11 +75,11 @@
           "id": 3,
           "dateStart": {
             "year": 2014,
-            "month": 7
+            "month": 6
           },
           "dateEnd": {
             "year": 2016,
-            "month": 4
+            "month": 3
           },
           "img": null,
           "fallbackFaIcon": "fa-solid fa-graduation-cap",
@@ -107,11 +107,11 @@
           "id": 4,
           "dateStart": {
             "year": 2003,
-            "month": 6
+            "month": 5
           },
           "dateEnd": {
             "year": 2014,
-            "month": 4
+            "month": 3
           },
           "img": null,
           "fallbackFaIcon": "fa-solid fa-graduation-cap",
