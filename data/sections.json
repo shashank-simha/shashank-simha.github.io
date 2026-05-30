@@ -1,0 +1,173 @@
+{
+  "sections": [
+    {
+      "id": "about",
+      "categoryId": "home",
+      "jsonPath": "/sections/cover.json",
+      "faIcon": "fa-solid fa-address-card",
+      "type": "centered",
+      "locales": {
+        "en": {
+          "title": "Welcome to *my resume!*",
+          "title_short": "Welcome!",
+          "description": null,
+          "nav_label": "About"
+        },
+        "de": {
+          "title": "Welcome to *my resume!*",
+          "title_short": "Welcome!",
+          "description": null,
+          "nav_label": "About"
+        }
+      }
+    },
+    {
+      "id": "experience",
+      "categoryId": "background",
+      "jsonPath": "/sections/experience.json",
+      "faIcon": "fa-solid fa-briefcase",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Professional* Experience",
+          "title_short": null,
+          "description": "A closer look at the roles where I demonstrated growth, problem-solving, and meaningful contributions across teams and projects.",
+          "nav_label": "Experience"
+        },
+        "de": {
+          "title": "*Professional* Experience",
+          "title_short": null,
+          "description": "A closer look at the roles where I demonstrated growth, problem-solving, and meaningful contributions across teams and projects.",
+          "nav_label": "Experience"
+        }
+      }
+    },
+    {
+      "id": "education",
+      "categoryId": "background",
+      "jsonPath": "/sections/education.json",
+      "faIcon": "fa-solid fa-graduation-cap",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Education* Background",
+          "title_short": null,
+          "description": "A brief overview of my academic journey, learning foundation, and key milestones along the way.",
+          "nav_label": "Education"
+        },
+        "de": {
+          "title": "*Education* Background",
+          "title_short": null,
+          "description": "A brief overview of my academic journey, learning foundation, and key milestones along the way.",
+          "nav_label": "Education"
+        }
+      }
+    },
+    {
+      "id": "skills",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/skills.json",
+      "faIcon": "fa-solid fa-tools",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "Core *Skills*",
+          "title_short": null,
+          "description": "An overview of the strengths, tools, and areas of expertise I have built through study, work, and hands-on experience.",
+          "nav_label": "Skills"
+        },
+        "de": {
+          "title": "Core *Skills*",
+          "title_short": null,
+          "description": "An overview of the strengths, tools, and areas of expertise I have built through study, work, and hands-on experience.",
+          "nav_label": "Skills"
+        }
+      }
+    },
+    {
+      "id": "portfolio",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/portfolio.json",
+      "faIcon": "fa-solid fa-folder-open",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "Selected *Projects*",
+          "title_short": null,
+          "description": "A selection of projects that reflect how I think, build, and bring ideas into practice.",
+          "nav_label": "Portfolio"
+        },
+        "de": {
+          "title": "Selected *Projects*",
+          "title_short": null,
+          "description": "A selection of projects that reflect how I think, build, and bring ideas into practice.",
+          "nav_label": "Portfolio"
+        }
+      }
+    },
+    {
+      "id": "achievements",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/achievements.json",
+      "faIcon": "fa-solid fa-award",
+      "type": "row",
+      "locales": {
+        "en": {
+          "title": "Key *Achievements*",
+          "title_short": null,
+          "description": "Awards, recognitions, and certifications that highlight dedication, growth, and consistent performance.",
+          "nav_label": "Achievements"
+        },
+        "de": {
+          "title": "Key *Achievements*",
+          "title_short": null,
+          "description": "Awards, recognitions, and certifications that highlight dedication, growth, and consistent performance.",
+          "nav_label": "Achievements"
+        }
+      }
+    },
+    {
+      "id": "volunteering",
+      "categoryId": "more",
+      "jsonPath": "/sections/volunteering.json",
+      "faIcon": "fa-solid fa-people-group",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Leadership* & Volunteering",
+          "title_short": null,
+          "description": "Experiences that reflect leadership, initiative, and a willingness to contribute beyond formal roles.",
+          "nav_label": "Volunteering"
+        },
+        "de": {
+          "title": "*Leadership* & Volunteering",
+          "title_short": null,
+          "description": "Experiences that reflect leadership, initiative, and a willingness to contribute beyond formal roles.",
+          "nav_label": "Volunteering"
+        }
+      }
+    },
+    {
+      "id": "contact",
+      "categoryId": "more",
+      "jsonPath": "/sections/contact.json",
+      "faIcon": "fa-solid fa-pen-to-square",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Contact* Me",
+          "title_short": null,
+          "description": "Feel free to reach out for opportunities, collaborations, or simply to start a conversation.",
+          "nav_label": "Contact"
+        },
+        "de": {
+          "title": "*Contact* Me",
+          "title_short": null,
+          "description": "Feel free to reach out for opportunities, collaborations, or simply to start a conversation.",
+          "nav_label": "Contact"
+        }
+      }
+    }
+
+  ]
+}

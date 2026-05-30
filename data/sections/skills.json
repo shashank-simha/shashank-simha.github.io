@@ -1,0 +1,629 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleSkills",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": false,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Firmware Engineering",
+              "description": "Designing reliable embedded firmware from architecture through integration and validation.",
+              "level": null
+            },
+            "de": {
+              "title": "Firmware Engineering",
+              "description": "Designing reliable embedded firmware from architecture through integration and validation.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-brain",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "TinyAI on Edge Devices",
+              "description": "Applying lightweight ML on constrained hardware with practical performance and power trade-offs.",
+              "level": null
+            },
+            "de": {
+              "title": "TinyAI on Edge Devices",
+              "description": "Applying lightweight ML on constrained hardware with practical performance and power trade-offs.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-diagram-project",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Hardware-Software Co-Design",
+              "description": "Aligning firmware and hardware decisions early to deliver robust, prototype-ready systems.",
+              "level": null
+            },
+            "de": {
+              "title": "Hardware-Software Co-Design",
+              "description": "Aligning firmware and hardware decisions early to deliver robust, prototype-ready systems.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-gauge-high",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Real-Time and Control Systems",
+              "description": "Delivering deterministic behavior using RTOS workflows and control-focused system validation.",
+              "level": null
+            },
+            "de": {
+              "title": "Real-Time and Control Systems",
+              "description": "Delivering deterministic behavior using RTOS workflows and control-focused system validation.",
+              "level": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Programming"
+        },
+        "de": {
+          "title": "Programming"
+        }
+      },
+      "settings": {
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2017,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-code",
+          "fallbackFaIconColor": null,
+          "percentage": 95,
+          "locales": {
+            "en": {
+              "title": "C, C++ and Embedded C",
+              "description": "Strong command of low-level and performance-oriented programming for embedded systems."
+            },
+            "de": {
+              "title": "C, C++ and Embedded C",
+              "description": "Strong command of low-level and performance-oriented programming for embedded systems."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2018,
+            "month": 6
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-python",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "Python",
+              "description": "Proficient in Python for scripting, automation, and development tooling."
+            },
+            "de": {
+              "title": "Python",
+              "description": "Proficient in Python for scripting, automation, and development tooling."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2019,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-java",
+          "fallbackFaIconColor": null,
+          "percentage": 70,
+          "locales": {
+            "en": {
+              "title": "Java",
+              "description": "Capable of delivering Android-side features and platform integrations in Java."
+            },
+            "de": {
+              "title": "Java",
+              "description": "Capable of delivering Android-side features and platform integrations in Java."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2024,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-rust",
+          "fallbackFaIconColor": null,
+          "percentage": 60,
+          "locales": {
+            "en": {
+              "title": "Rust",
+              "description": "Currently learning Rust with a focus on modern, memory-safe systems programming."
+            },
+            "de": {
+              "title": "Rust",
+              "description": "Currently learning Rust with a focus on modern, memory-safe systems programming."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Embedded Tech"
+        },
+        "de": {
+          "title": "Embedded Tech"
+        }
+      },
+      "settings": {
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2019,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "FreeRTOS",
+              "description": "Practical command of task-driven firmware design with predictable real-time behavior."
+            },
+            "de": {
+              "title": "FreeRTOS",
+              "description": "Practical command of task-driven firmware design with predictable real-time behavior."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2020,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-robot",
+          "fallbackFaIconColor": null,
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "ROS2",
+              "description": "Adept with modular robotics communication and multi-node system architecture."
+            },
+            "de": {
+              "title": "ROS2",
+              "description": "Adept with modular robotics communication and multi-node system architecture."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2021,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-linux",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "Linux Device Drivers",
+              "description": "Strong working knowledge of Linux kernel driver development and hardware integration."
+            },
+            "de": {
+              "title": "Linux Device Drivers",
+              "description": "Strong working knowledge of Linux kernel driver development and hardware integration."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2018,
+            "month": 6
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-plug",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "I2C, SPI, CAN and UART",
+              "description": "Hands-on experience with board bring-up and peripheral integration over common serial protocols."
+            },
+            "de": {
+              "title": "I2C, SPI, CAN und UART",
+              "description": "Hands-on experience with board bring-up and peripheral integration over common serial protocols."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": {
+            "year": 2021,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-android",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "Android Audio and Power",
+              "description": "Proficient in Android audio and power feature integration across platforms."
+            },
+            "de": {
+              "title": "Android Audio and Power",
+              "description": "Proficient in Android audio and power feature integration across platforms."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "System Design"
+        },
+        "de": {
+          "title": "System Design"
+        }
+      },
+      "settings": {
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2020,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-calculator",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "MATLAB and Simulink",
+              "description": "Confident using model-based workflows for control design and validation."
+            },
+            "de": {
+              "title": "MATLAB and Simulink",
+              "description": "Confident using model-based workflows for control design and validation."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Hardware Design"
+        },
+        "de": {
+          "title": "Hardware Design"
+        }
+      },
+      "settings": {
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2018,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-diagram-project",
+          "fallbackFaIconColor": null,
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "VHDL, Verilog, and SystemC",
+              "description": "Strong command of digital logic design and verification from specification through simulation."
+            },
+            "de": {
+              "title": "VHDL, Verilog, and SystemC",
+              "description": "Strong command of digital logic design and verification from specification through simulation."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2019,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-vector-square",
+          "fallbackFaIconColor": null,
+          "percentage": 75,
+          "locales": {
+            "en": {
+              "title": "KiCad",
+              "description": "Adept at schematic capture and PCB layout for fabrication-ready prototypes."
+            },
+            "de": {
+              "title": "KiCad",
+              "description": "Adept at schematic capture and PCB layout for fabrication-ready prototypes."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Embedded Platforms"
+        },
+        "de": {
+          "title": "Embedded Platforms"
+        }
+      },
+      "settings": {
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2018,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-raspberry-pi",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "Raspberry Pi",
+              "description": "Hands-on with edge and appliance-style prototyping workflows."
+            },
+            "de": {
+              "title": "Raspberry Pi",
+              "description": "Hands-on with edge and appliance-style prototyping workflows."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2019,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-wifi",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "ESP32 and ESP8266",
+              "description": "Capable of developing connected firmware with reliable networking and sensor integration."
+            },
+            "de": {
+              "title": "ESP32 and ESP8266",
+              "description": "Capable of developing connected firmware with reliable networking and sensor integration."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2019,
+            "month": 6
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIconColor": null,
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "STM32 and STM8",
+              "description": "Solid experience with bare-metal and RTOS-based firmware development for constrained targets."
+            },
+            "de": {
+              "title": "STM32 and STM8",
+              "description": "Solid experience with bare-metal and RTOS-based firmware development for constrained targets."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2020,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "ARM and RISC-V",
+              "description": "Practical understanding of ARM and RISC-V architectures across microcontroller and SoC contexts.",
+              "level": null
+            },
+            "de": {
+              "title": "ARM and RISC-V",
+              "description": "Practical understanding of ARM and RISC-V architectures across microcontroller and SoC contexts.",
+              "level": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Languages"
+        },
+        "de": {
+          "title": "Languages"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 1,
+        "small_icons": true,
+        "transparent_item_icon_background": true,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": "images/flags/en-us.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "English",
+              "description": "Professional proficiency in spoken and written English, with confidence in academic and workplace communication.",
+              "level": "Professional"
+            },
+            "de": {
+              "title": "English",
+              "description": "Professional proficiency in spoken and written English, with confidence in academic and workplace communication.",
+              "level": "Professional"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": "images/flags/ka.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Kannada",
+              "description": "Native language with strong fluency in everyday communication and expression.",
+              "level": "Native"
+            },
+            "de": {
+              "title": "Kannada",
+              "description": "Native language with strong fluency in everyday communication and expression.",
+              "level": "Native"
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": "images/flags/de.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "German",
+              "description": "Basic proficiency in German, with continued learning and improvement in progress.",
+              "level": "Basic"
+            },
+            "de": {
+              "title": "German",
+              "description": "Basic proficiency in German, with continued learning and improvement in progress.",
+              "level": "Basic"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

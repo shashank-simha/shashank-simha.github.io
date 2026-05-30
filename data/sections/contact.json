@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleContactOptions",
+      "locales": {
+        "en": {
+          "title": null,
+          "description": null
+        },
+        "de": {
+          "title": null,
+          "description": null
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_ids": [
+          "address",
+          "phone",
+          "email",
+          "linkedin",
+          "instagram",
+          "github"
+        ]
+      },
+      "items": null
+    }
+  ]
+}
