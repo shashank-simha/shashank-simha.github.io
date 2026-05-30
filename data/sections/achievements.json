@@ -1,0 +1,182 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleThread",
+      "locales": {
+        "en": {
+          "title": "Achievements"
+        },
+        "de": {
+          "title": "Achievements"
+        }
+      },
+      "settings": {
+        "order_items_by": "dateStart",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2020,
+            "month": 8
+          },
+          "fallbackFaIcon": "fa-solid fa-award",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Top 5% of Graduating Class",
+              "description": "Ranked in the top 5% of the 2020 graduating class at NIE.",
+              "institution": "The National Institute of Engineering"
+            },
+            "de": {
+              "title": "Top 5% of Graduating Class",
+              "description": "Ranked in the top 5% of the 2020 graduating class at NIE.",
+              "institution": "The National Institute of Engineering"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2020,
+            "month": 12
+          },
+          "fallbackFaIcon": "fa-solid fa-award",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Outstanding Student Volunteer",
+              "description": "Recognized by IEEE India Council for volunteer contributions in 2020.",
+              "institution": "IEEE India Council"
+            },
+            "de": {
+              "title": "Outstanding Student Volunteer",
+              "description": "Recognized by IEEE India Council for volunteer contributions in 2020.",
+              "institution": "IEEE India Council"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2019,
+            "month": 12
+          },
+          "fallbackFaIcon": "fa-solid fa-award",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Outstanding Student Volunteer",
+              "description": "Recognized by IEEE Bangalore Section for volunteer contributions in 2019.",
+              "institution": "IEEE Bangalore Section"
+            },
+            "de": {
+              "title": "Outstanding Student Volunteer",
+              "description": "Recognized by IEEE Bangalore Section for volunteer contributions in 2019.",
+              "institution": "IEEE Bangalore Section"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2018,
+            "month": 10
+          },
+          "fallbackFaIcon": "fa-solid fa-trophy",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Best Website Award",
+              "description": "Awarded for AISYWC'18 website development contribution.",
+              "institution": "AISYWC'18"
+            },
+            "de": {
+              "title": "Best Website Award",
+              "description": "Awarded for AISYWC'18 website development contribution.",
+              "institution": "AISYWC'18"
+            }
+          },
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleThread",
+      "locales": {
+        "en": {
+          "title": "Certifications"
+        },
+        "de": {
+          "title": "Certifications"
+        }
+      },
+      "settings": {
+        "order_items_by": "dateStart",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2020,
+            "month": 10
+          },
+          "fallbackFaIcon": "fa-solid fa-certificate",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Embedded Sensors & Motors Specialization",
+              "description": "Completed Coursera specialization focused on embedded sensors, motor control concepts, and practical embedded systems foundations.",
+              "institution": "Coursera (University of Colorado Boulder)"
+            },
+            "de": {
+              "title": "Embedded Sensors & Motors Specialization",
+              "description": "Completed Coursera specialization focused on embedded sensors, motor control concepts, and practical embedded systems foundations.",
+              "institution": "Coursera (University of Colorado Boulder)"
+            }
+          },
+          "links": [
+            {
+              "href": "https://coursera.org/share/89b6aa342e9f2bd0dfb1abffc5701f6c",
+              "stringKey": "view_certification"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2020,
+            "month": 5
+          },
+          "fallbackFaIcon": "fa-solid fa-certificate",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Secure Embedded Systems Specialization",
+              "description": "Completed Coursera specialization on secure embedded systems, covering threat-aware design and embedded security practices.",
+              "institution": "Coursera (EIT Digital)"
+            },
+            "de": {
+              "title": "Secure Embedded Systems Specialization",
+              "description": "Completed Coursera specialization on secure embedded systems, covering threat-aware design and embedded security practices.",
+              "institution": "Coursera (EIT Digital)"
+            }
+          },
+          "links": [
+            {
+              "href": "https://coursera.org/share/565265ef43fde9945a83c40f9a168faf",
+              "stringKey": "view_certification"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

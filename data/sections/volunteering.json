@@ -1,0 +1,150 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {
+        "en": {
+          "title": "Volunteering"
+        },
+        "de": {
+          "title": "Volunteering"
+        }
+      },
+      "settings": {
+        "order_items_by": "dateStart",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": {
+            "year": 2019,
+            "month": 5
+          },
+          "dateEnd": {
+            "year": 2020,
+            "month": 1
+          },
+          "img": "images/places/logo-ieee.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Hub Incharge - Mysore",
+              "description": "Organized the IEEE Bangalore Section SAC General Body Meet and SYWL Congress 2019, and led IEEE Tech Day and Branch Counselors Meet events.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "IEEE Bangalore Section SAC",
+              "tags": []
+            },
+            "de": {
+              "title": "Hub Incharge - Mysore",
+              "description": "Organized the IEEE Bangalore Section SAC General Body Meet and SYWL Congress 2019, and led IEEE Tech Day and Branch Counselors Meet events.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "IEEE Bangalore Section SAC",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2019,
+            "month": 4
+          },
+          "dateEnd": {
+            "year": 2020,
+            "month": 5
+          },
+          "img": "images/places/logo-aisywc.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Student Coordinator",
+              "description": "Supported webinars and online training initiatives and led a 5-member team to develop the AISYWC'19 website.",
+              "province": "India",
+              "country": "India",
+              "institution": "IEEE India Council",
+              "tags": []
+            },
+            "de": {
+              "title": "Student Coordinator",
+              "description": "Supported webinars and online training initiatives and led a 5-member team to develop the AISYWC'19 website.",
+              "province": "India",
+              "country": "India",
+              "institution": "IEEE India Council",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": {
+            "year": 2018,
+            "month": 6
+          },
+          "dateEnd": {
+            "year": 2019,
+            "month": 5
+          },
+          "img": "images/places/logo-nisb.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Vice-Chairperson",
+              "description": "Led a 13-member team to organize 70+ events, 4 fests, and 2 apps, and served as website lead for AISYWC'18.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "NIE IEEE Student Branch",
+              "tags": []
+            },
+            "de": {
+              "title": "Vice-Chairperson",
+              "description": "Led a 13-member team to organize 70+ events, 4 fests, and 2 apps, and served as website lead for AISYWC'18.",
+              "province": "Mysuru",
+              "country": "India",
+              "institution": "NIE IEEE Student Branch",
+              "tags": []
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": {
+            "year": 2018,
+            "month": 6
+          },
+          "dateEnd": {
+            "year": 2018,
+            "month": 10
+          },
+          "img": "images/places/logo-ieee.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Website Lead - AISYWC 2018",
+              "description": "Worked as lead website developer for All India Student-YP-WIE Congress 2018, a flagship IEEE India Council event.",
+              "province": "India",
+              "country": "India",
+              "institution": "IEEE India Council",
+              "tags": []
+            },
+            "de": {
+              "title": "Website Lead - AISYWC 2018",
+              "description": "Worked as lead website developer for All India Student-YP-WIE Congress 2018, a flagship IEEE India Council event.",
+              "province": "India",
+              "country": "India",
+              "institution": "IEEE India Council",
+              "tags": []
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

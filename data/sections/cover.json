@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleProfile",
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_list_ids": [
+          "address",
+          "email",
+          "phone"
+        ],
+        "contact_circles_ids": [
+          "linkedin",
+          "github",
+          "download_resume"
+        ]
+      },
+      "items": [
+        {
+          "id": 1,
+          "locales": {
+            "en": {
+              "description": "I am an Embedded Systems Engineer and M.Sc. student at the Technical University of Munich, building reliable firmware and connected products from low-level drivers to system architecture."
+            },
+            "de": {
+              "description": "I am an Embedded Systems Engineer and M.Sc. student at the Technical University of Munich, building reliable firmware and connected products from low-level drivers to system architecture."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "locales": {
+            "en": {
+              "description": "My experience spans Infineon, BSH, Qualcomm, and PathPartner, combined with IEEE leadership and hands-on project execution across motor control, IoT platforms, and SoC power optimization."
+            },
+            "de": {
+              "description": "My experience spans Infineon, BSH, Qualcomm, and PathPartner, combined with IEEE leadership and hands-on project execution across motor control, IoT platforms, and SoC power optimization."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
