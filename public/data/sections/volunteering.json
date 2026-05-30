@@ -20,11 +20,11 @@
           "id": 1,
           "dateStart": {
             "year": 2019,
-            "month": 5
+            "month": 4
           },
           "dateEnd": {
             "year": 2020,
-            "month": 1
+            "month": 0
           },
           "img": "images/places/logo-ieee.png",
           "fallbackFaIcon": null,
@@ -52,11 +52,11 @@
           "id": 2,
           "dateStart": {
             "year": 2019,
-            "month": 4
+            "month": 3
           },
           "dateEnd": {
             "year": 2020,
-            "month": 5
+            "month": 4
           },
           "img": "images/places/logo-aisywc.png",
           "fallbackFaIcon": null,
@@ -84,11 +84,11 @@
           "id": 3,
           "dateStart": {
             "year": 2018,
-            "month": 6
+            "month": 5
           },
           "dateEnd": {
             "year": 2019,
-            "month": 5
+            "month": 4
           },
           "img": "images/places/logo-nisb.png",
           "fallbackFaIcon": null,
@@ -116,11 +116,11 @@
           "id": 4,
           "dateStart": {
             "year": 2018,
-            "month": 6
+            "month": 5
           },
           "dateEnd": {
             "year": 2018,
-            "month": 10
+            "month": 9
           },
           "img": "images/places/logo-ieee.png",
           "fallbackFaIcon": null,
