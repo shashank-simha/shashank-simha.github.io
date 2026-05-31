@@ -23,12 +23,12 @@
           "locales": {
             "en": {
               "title": "Firmware Engineering",
-              "description": "Designing reliable embedded firmware from architecture through integration and validation.",
+              "description": "Writing embedded firmware across the stack, from bare-metal drivers to application logic.",
               "level": null
             },
             "de": {
               "title": "Firmware Engineering",
-              "description": "Designing reliable embedded firmware from architecture through integration and validation.",
+              "description": "Writing embedded firmware across the stack, from bare-metal drivers to application logic.",
               "level": null
             }
           }
@@ -43,12 +43,12 @@
           "locales": {
             "en": {
               "title": "TinyAI on Edge Devices",
-              "description": "Applying lightweight ML on constrained hardware with practical performance and power trade-offs.",
+              "description": "Running ML models on constrained hardware where compute and power budgets are tight.",
               "level": null
             },
             "de": {
               "title": "TinyAI on Edge Devices",
-              "description": "Applying lightweight ML on constrained hardware with practical performance and power trade-offs.",
+              "description": "Running ML models on constrained hardware where compute and power budgets are tight.",
               "level": null
             }
           }
@@ -57,18 +57,18 @@
           "id": 3,
           "dateStart": null,
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-diagram-project",
+          "fallbackFaIcon": "fa-solid fa-layer-group",
           "fallbackFaIconColor": null,
           "percentage": null,
           "locales": {
             "en": {
               "title": "Hardware-Software Co-Design",
-              "description": "Aligning firmware and hardware decisions early to deliver robust, prototype-ready systems.",
+              "description": "Working across the hardware-software boundary, using model-based approaches to make design decisions that hold up in practice.",
               "level": null
             },
             "de": {
               "title": "Hardware-Software Co-Design",
-              "description": "Aligning firmware and hardware decisions early to deliver robust, prototype-ready systems.",
+              "description": "Working across the hardware-software boundary, using model-based approaches to make design decisions that hold up in practice.",
               "level": null
             }
           }
@@ -83,12 +83,32 @@
           "locales": {
             "en": {
               "title": "Real-Time and Control Systems",
-              "description": "Delivering deterministic behavior using RTOS workflows and control-focused system validation.",
+              "description": "Building time-critical systems where predictable behavior is not optional.",
               "level": null
             },
             "de": {
               "title": "Real-Time and Control Systems",
-              "description": "Delivering deterministic behavior using RTOS workflows and control-focused system validation.",
+              "description": "Building time-critical systems where predictable behavior is not optional.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-shield-halved",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Embedded Security and IoT",
+              "description": "Designing with security in mind across connected embedded systems, from threat modeling to secure communication.",
+              "level": null
+            },
+            "de": {
+              "title": "Embedded Security and IoT",
+              "description": "Designing with security in mind across connected embedded systems, from threat modelling to secure communication.",
               "level": null
             }
           }
@@ -122,17 +142,17 @@
             "month": 1
           },
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-code",
+          "fallbackFaIcon": "fa-solid fa-terminal",
           "fallbackFaIconColor": null,
           "percentage": 95,
           "locales": {
             "en": {
               "title": "C, C++ and Embedded C",
-              "description": "Strong command of low-level and performance-oriented programming for embedded systems."
+              "description": "The language I spend most of my time in, from low-level driver code to application logic."
             },
             "de": {
               "title": "C, C++ and Embedded C",
-              "description": "Strong command of low-level and performance-oriented programming for embedded systems."
+              "description": "The language I spend most of my time in, from low-level driver code to application logic."
             }
           }
         },
@@ -149,11 +169,11 @@
           "locales": {
             "en": {
               "title": "Python",
-              "description": "Proficient in Python for scripting, automation, and development tooling."
+              "description": "Go-to for scripting, tooling, and anything that doesn't need to run on bare metal."
             },
             "de": {
               "title": "Python",
-              "description": "Proficient in Python for scripting, automation, and development tooling."
+              "description": "Go-to for scripting, tooling, and anything that doesn't need to run on bare metal."
             }
           }
         },
@@ -170,11 +190,11 @@
           "locales": {
             "en": {
               "title": "Java",
-              "description": "Capable of delivering Android-side features and platform integrations in Java."
+              "description": "Used primarily on the Android side for feature development and platform integration."
             },
             "de": {
               "title": "Java",
-              "description": "Capable of delivering Android-side features and platform integrations in Java."
+              "description": "Used primarily on the Android side for feature development and platform integration."
             }
           }
         },
@@ -191,11 +211,11 @@
           "locales": {
             "en": {
               "title": "Rust",
-              "description": "Currently learning Rust with a focus on modern, memory-safe systems programming."
+              "description": "Still learning, but drawn to it for the memory safety guarantees in systems programming."
             },
             "de": {
               "title": "Rust",
-              "description": "Currently learning Rust with a focus on modern, memory-safe systems programming."
+              "description": "Still learning, but drawn to it for the memory safety guarantees in systems programming."
             }
           }
         }
@@ -228,17 +248,17 @@
             "month": 1
           },
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIcon": "fa-solid fa-stopwatch",
           "fallbackFaIconColor": null,
           "percentage": 90,
           "locales": {
             "en": {
               "title": "FreeRTOS",
-              "description": "Practical command of task-driven firmware design with predictable real-time behavior."
+              "description": "Task scheduling and real-time firmware design on constrained microcontrollers."
             },
             "de": {
               "title": "FreeRTOS",
-              "description": "Practical command of task-driven firmware design with predictable real-time behavior."
+              "description": "Task scheduling and real-time firmware design on constrained microcontrollers."
             }
           }
         },
@@ -255,11 +275,11 @@
           "locales": {
             "en": {
               "title": "ROS2",
-              "description": "Adept with modular robotics communication and multi-node system architecture."
+              "description": "Multi-node robotics systems with inter-process communication and sensor integration."
             },
             "de": {
               "title": "ROS2",
-              "description": "Adept with modular robotics communication and multi-node system architecture."
+              "description": "Multi-node robotics systems with inter-process communication and sensor integration."
             }
           }
         },
@@ -276,11 +296,11 @@
           "locales": {
             "en": {
               "title": "Linux Device Drivers",
-              "description": "Strong working knowledge of Linux kernel driver development and hardware integration."
+              "description": "Kernel-level driver development and hardware bring-up on embedded Linux platforms."
             },
             "de": {
               "title": "Linux Device Drivers",
-              "description": "Strong working knowledge of Linux kernel driver development and hardware integration."
+              "description": "Kernel-level driver development and hardware bring-up on embedded Linux platforms."
             }
           }
         },
@@ -291,17 +311,17 @@
             "month": 6
           },
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-plug",
+          "fallbackFaIcon": "fa-solid fa-right-left",
           "fallbackFaIconColor": null,
           "percentage": 85,
           "locales": {
             "en": {
               "title": "I2C, SPI, CAN and UART",
-              "description": "Hands-on experience with board bring-up and peripheral integration over common serial protocols."
+              "description": "Day-to-day protocols for peripheral integration and board bring-up."
             },
             "de": {
               "title": "I2C, SPI, CAN und UART",
-              "description": "Hands-on experience with board bring-up and peripheral integration over common serial protocols."
+              "description": "Day-to-day protocols for peripheral integration and board bring-up."
             }
           }
         },
@@ -318,11 +338,11 @@
           "locales": {
             "en": {
               "title": "Android Audio and Power",
-              "description": "Proficient in Android audio and power feature integration across platforms."
+              "description": "Feature integration on the Android platform across audio subsystems and power management."
             },
             "de": {
               "title": "Android Audio and Power",
-              "description": "Proficient in Android audio and power feature integration across platforms."
+              "description": "Feature integration on the Android platform across audio subsystems and power management."
             }
           }
         }
@@ -355,17 +375,17 @@
             "month": 1
           },
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-calculator",
+          "fallbackFaIcon": "fa-solid fa-wave-square",
           "fallbackFaIconColor": null,
           "percentage": 90,
           "locales": {
             "en": {
               "title": "MATLAB and Simulink",
-              "description": "Confident using model-based workflows for control design and validation."
+              "description": "Used for model-based development and control system design, mostly in automotive embedded contexts."
             },
             "de": {
               "title": "MATLAB and Simulink",
-              "description": "Confident using model-based workflows for control design and validation."
+              "description": "Used for model-based development and control system design, mostly in automotive embedded contexts."
             }
           }
         }
@@ -403,12 +423,12 @@
           "percentage": 80,
           "locales": {
             "en": {
-              "title": "VHDL, Verilog, and SystemC",
-              "description": "Strong command of digital logic design and verification from specification through simulation."
+              "title": "VHDL, Verilog and SystemC",
+              "description": "Digital logic design and hardware description, from spec through simulation and verification."
             },
             "de": {
-              "title": "VHDL, Verilog, and SystemC",
-              "description": "Strong command of digital logic design and verification from specification through simulation."
+              "title": "VHDL, Verilog and SystemC",
+              "description": "Digital logic design and hardware description, from spec through simulation and verification."
             }
           }
         },
@@ -419,17 +439,17 @@
             "month": 1
           },
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-vector-square",
+          "fallbackFaIcon": "fa-solid fa-microchip",
           "fallbackFaIconColor": null,
           "percentage": 75,
           "locales": {
             "en": {
               "title": "KiCad",
-              "description": "Adept at schematic capture and PCB layout for fabrication-ready prototypes."
+              "description": "Schematic capture and PCB layout for prototype boards."
             },
             "de": {
               "title": "KiCad",
-              "description": "Adept at schematic capture and PCB layout for fabrication-ready prototypes."
+              "description": "Schematic capture and PCB layout for prototype boards."
             }
           }
         }
@@ -458,6 +478,29 @@
         {
           "id": 1,
           "dateStart": {
+            "year": 2020,
+            "month": 1
+          },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-server",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "ARM and RISC-V",
+              "description": "Familiar with both architectures across microcontroller and SoC contexts.",
+              "level": null
+            },
+            "de": {
+              "title": "ARM and RISC-V",
+              "description": "Familiar with both architectures across microcontroller and SoC contexts.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
             "year": 2018,
             "month": 1
           },
@@ -468,16 +511,16 @@
           "locales": {
             "en": {
               "title": "Raspberry Pi",
-              "description": "Hands-on with edge and appliance-style prototyping workflows."
+              "description": "Used across multiple projects for prototyping, edge inference, and appliance simulation."
             },
             "de": {
               "title": "Raspberry Pi",
-              "description": "Hands-on with edge and appliance-style prototyping workflows."
+              "description": "Used across multiple projects for prototyping, edge inference, and appliance simulation."
             }
           }
         },
         {
-          "id": 2,
+          "id": 3,
           "dateStart": {
             "year": 2019,
             "month": 1
@@ -489,16 +532,16 @@
           "locales": {
             "en": {
               "title": "ESP32 and ESP8266",
-              "description": "Capable of developing connected firmware with reliable networking and sensor integration."
+              "description": "Connected firmware development with WiFi, Bluetooth, and sensor integration."
             },
             "de": {
               "title": "ESP32 and ESP8266",
-              "description": "Capable of developing connected firmware with reliable networking and sensor integration."
+              "description": "Connected firmware development with WiFi, Bluetooth, and sensor integration."
             }
           }
         },
         {
-          "id": 3,
+          "id": 4,
           "dateStart": {
             "year": 2019,
             "month": 6
@@ -510,34 +553,11 @@
           "locales": {
             "en": {
               "title": "STM32 and STM8",
-              "description": "Solid experience with bare-metal and RTOS-based firmware development for constrained targets."
+              "description": "Bare-metal and RTOS-based firmware on ST's microcontroller families."
             },
             "de": {
               "title": "STM32 and STM8",
-              "description": "Solid experience with bare-metal and RTOS-based firmware development for constrained targets."
-            }
-          }
-        },
-        {
-          "id": 4,
-          "dateStart": {
-            "year": 2020,
-            "month": 1
-          },
-          "img": null,
-          "fallbackFaIcon": "fa-solid fa-microchip",
-          "fallbackFaIconColor": null,
-          "percentage": 85,
-          "locales": {
-            "en": {
-              "title": "ARM and RISC-V",
-              "description": "Practical understanding of ARM and RISC-V architectures across microcontroller and SoC contexts.",
-              "level": null
-            },
-            "de": {
-              "title": "ARM and RISC-V",
-              "description": "Practical understanding of ARM and RISC-V architectures across microcontroller and SoC contexts.",
-              "level": null
+              "description": "Bare-metal and RTOS-based firmware on ST's microcontroller families."
             }
           }
         }
@@ -573,12 +593,12 @@
           "locales": {
             "en": {
               "title": "English",
-              "description": "Professional proficiency in spoken and written English, with confidence in academic and workplace communication.",
+              "description": "Fluent in spoken and written English, comfortable in both academic and professional settings.",
               "level": "Professional"
             },
             "de": {
               "title": "English",
-              "description": "Professional proficiency in spoken and written English, with confidence in academic and workplace communication.",
+              "description": "Fluent in spoken and written English, comfortable in both academic and professional settings.",
               "level": "Professional"
             }
           }
@@ -593,12 +613,13 @@
           "locales": {
             "en": {
               "title": "Kannada",
-              "description": "Native language with strong fluency in everyday communication and expression.",
+              "description": "Mother tongue.",
               "level": "Native"
             },
             "de": {
               "title": "Kannada",
-              "description": "Native language with strong fluency in everyday communication and expression.",
+              "description": "Muttersprache.",
+
               "level": "Native"
             }
           }
@@ -613,13 +634,33 @@
           "locales": {
             "en": {
               "title": "German",
-              "description": "Basic proficiency in German, with continued learning and improvement in progress.",
+              "description": "Currently at A2 level, working on it.",
               "level": "Basic"
             },
             "de": {
               "title": "German",
-              "description": "Basic proficiency in German, with continued learning and improvement in progress.",
+              "description": "Derzeit auf A2-Niveau, daran arbeitend.",
               "level": "Basic"
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": "images/flags/hi.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Hindi",
+              "description": "Conversational proficiency, enough for everyday and workplace interactions.",
+              "level": "Conversational"
+            },
+            "de": {
+              "title": "Hindi",
+              "description": "Konversationssicher, ausreichend für den Alltag und den Arbeitsplatz.",
+              "level": "Conversational"
             }
           }
         }

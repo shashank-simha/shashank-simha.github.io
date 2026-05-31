@@ -33,7 +33,7 @@
           "locales": {
             "en": {
               "title": "Adaptive Embedded Control System",
-              "description": "Adaptive fuzzy PID control for an industrial furnace with wireless-sensor-network based data aggregation and processing.",
+              "description": "Fuzzy PID controller for an industrial furnace, with a wireless sensor network handling data aggregation and feeding into the control loop.",
               "tags": [
                 "Embedded",
                 "Control Systems",
@@ -42,7 +42,7 @@
             },
             "de": {
               "title": "Adaptive Embedded Control System",
-              "description": "Adaptive fuzzy PID control for an industrial furnace with wireless-sensor-network based data aggregation and processing.",
+              "description": "Fuzzy PID controller for an industrial furnace, with a wireless sensor network handling data aggregation and feeding into the control loop.",
               "tags": [
                 "Embedded",
                 "Control Systems",
@@ -67,7 +67,7 @@
           "locales": {
             "en": {
               "title": "ECG Signal Compression Comparison",
-              "description": "Comparative analysis of AZTEC, DCT, and Turning Point ECG compression with ratio and fidelity metrics.",
+              "description": "Benchmarked three ECG compression algorithms, AZTEC, DCT, and Turning Point, against each other on compression ratio and how well the reconstructed signal holds up.",
               "tags": [
                 "Signal Processing",
                 "Algorithms",
@@ -76,7 +76,7 @@
             },
             "de": {
               "title": "ECG Signal Compression Comparison",
-              "description": "Comparative analysis of AZTEC, DCT, and Turning Point ECG compression with ratio and fidelity metrics.",
+              "description": "Benchmarked three ECG compression algorithms, AZTEC, DCT, and Turning Point, against each other on compression ratio and how well the reconstructed signal holds up.",
               "tags": [
                 "Signal Processing",
                 "Algorithms",
@@ -101,7 +101,7 @@
           "locales": {
             "en": {
               "title": "Presenter",
-              "description": "Android app for remote presentation control with Firebase sync for RevealJS/SlidesJS decks.",
+              "description": "Android app that turns your phone into a presentation remote, synced to RevealJS and SlidesJS decks over Firebase.",
               "tags": [
                 "Android",
                 "Firebase",
@@ -110,7 +110,7 @@
             },
             "de": {
               "title": "Presenter",
-              "description": "Android app for remote presentation control with Firebase sync for RevealJS/SlidesJS decks.",
+              "description": "Android app that turns your phone into a presentation remote, synced to RevealJS and SlidesJS decks over Firebase.",
               "tags": [
                 "Android",
                 "Firebase",
@@ -135,7 +135,7 @@
           "locales": {
             "en": {
               "title": "Scheduling Algorithms Simulator",
-              "description": "C++ simulator for FCFS, Round Robin, SJN, and Priority scheduling with waiting and turnaround analysis.",
+              "description": "C++ simulator that runs FCFS, Round Robin, SJN, and Priority scheduling algorithms and reports waiting time and turnaround metrics.",
               "tags": [
                 "Operating Systems",
                 "Scheduling",
@@ -144,7 +144,7 @@
             },
             "de": {
               "title": "Scheduling Algorithms Simulator",
-              "description": "C++ simulator for FCFS, Round Robin, SJN, and Priority scheduling with waiting and turnaround analysis.",
+              "description": "C++ simulator that runs FCFS, Round Robin, SJN, and Priority scheduling algorithms and reports waiting time and turnaround metrics.",
               "tags": [
                 "Operating Systems",
                 "Scheduling",
@@ -169,7 +169,7 @@
           "locales": {
             "en": {
               "title": "Smart Speed Governor",
-              "description": "Raspberry Pi plus PHP/MySQL IoT system to regulate vehicle speed based on GPS location traffic limits.",
+              "description": "IoT system that pulls GPS location and traffic density data to estimate the local speed limit and regulate vehicle speed accordingly.",
               "tags": [
                 "IoT",
                 "Raspberry Pi",
@@ -178,7 +178,7 @@
             },
             "de": {
               "title": "Smart Speed Governor",
-              "description": "Raspberry Pi plus PHP/MySQL IoT system to regulate vehicle speed based on GPS location traffic limits.",
+              "description": "IoT system that pulls GPS location and traffic density data to estimate the local speed limit and regulate vehicle speed accordingly.",
               "tags": [
                 "IoT",
                 "Raspberry Pi",
@@ -203,7 +203,7 @@
           "locales": {
             "en": {
               "title": "AISYWC 2018 Event Website",
-              "description": "IEEE conference website with responsive multi-page layout, event schedule, speaker profiles, and online registration.",
+              "description": "Full conference website for an IEEE India Council flagship event, with schedule, speaker profiles, and online registration.",
               "tags": [
                 "Web Development",
                 "JavaScript",
@@ -212,7 +212,7 @@
             },
             "de": {
               "title": "AISYWC 2018 Event Website",
-              "description": "IEEE conference website with responsive multi-page layout, event schedule, speaker profiles, and online registration.",
+              "description": "Full conference website for an IEEE India Council flagship event, with schedule, speaker profiles, and online registration.",
               "tags": [
                 "Web Development",
                 "JavaScript",
@@ -237,7 +237,7 @@
           "locales": {
             "en": {
               "title": "RSSI-based Localization Robot",
-              "description": "Embedded localization system using Zigbee RSSI and odometry on MSP432 for autonomous navigation.",
+              "description": "Mobile robot that navigates around to collect RSSI readings from a single beacon, estimates the beacon's position, and moves towards it autonomously.",
               "tags": [
                 "Zigbee",
                 "Localization",
@@ -246,7 +246,7 @@
             },
             "de": {
               "title": "RSSI-based Localization Robot",
-              "description": "Embedded localization system using Zigbee RSSI and odometry on MSP432 for autonomous navigation.",
+              "description": "Mobile robot that navigates around to collect RSSI readings from a single beacon, estimates the beacon's position, and moves towards it autonomously.",
               "tags": [
                 "Zigbee",
                 "Localization",
@@ -271,7 +271,7 @@
           "locales": {
             "en": {
               "title": "EmbeddedML",
-              "description": "Arduino library for embedded ML on ESP32 with AIfES integration and reusable model and dataset abstractions.",
+              "description": "A library that wraps popular embedded ML frameworks like AIfES and TinyML into a cleaner, reusable API across multiple targets including Arduino and ESP-IDF, with more platforms planned.",
               "tags": [
                 "Embedded ML",
                 "ESP32",
@@ -280,7 +280,7 @@
             },
             "de": {
               "title": "EmbeddedML",
-              "description": "Arduino library for embedded ML on ESP32 with AIfES integration and reusable model and dataset abstractions.",
+              "description": "A library that wraps popular embedded ML frameworks like AIfES and TinyML into a cleaner, reusable API across multiple targets including Arduino and ESP-IDF, with more platforms planned.",
               "tags": [
                 "Embedded ML",
                 "ESP32",
@@ -305,7 +305,7 @@
           "locales": {
             "en": {
               "title": "STM32 FreeRTOS Examples",
-              "description": "STM32F446 FreeRTOS exercises implementing tasks, semaphores, mutexes, queues, and real-time scheduling patterns.",
+              "description": "A set of hands-on FreeRTOS exercises on STM32F446, working through tasks, semaphores, mutexes, queues, and scheduling patterns.",
               "tags": [
                 "FreeRTOS",
                 "STM32",
@@ -314,7 +314,7 @@
             },
             "de": {
               "title": "STM32 FreeRTOS Examples",
-              "description": "STM32F446 FreeRTOS exercises implementing tasks, semaphores, mutexes, queues, and real-time scheduling patterns.",
+              "description": "A set of hands-on FreeRTOS exercises on STM32F446, working through tasks, semaphores, mutexes, queues, and scheduling patterns.",
               "tags": [
                 "FreeRTOS",
                 "STM32",
@@ -339,7 +339,7 @@
           "locales": {
             "en": {
               "title": "STM32 Bare-Metal Development",
-              "description": "Bare-metal STM32F446 projects demonstrating startup code, GPIO, interrupts, and low-level toolchain workflows.",
+              "description": "Bare-metal STM32F446 projects built from scratch, covering startup code, GPIO, interrupts, and toolchain setup without any HAL.",
               "tags": [
                 "Bare Metal",
                 "STM32",
@@ -348,7 +348,7 @@
             },
             "de": {
               "title": "STM32 Bare-Metal Development",
-              "description": "Bare-metal STM32F446 projects demonstrating startup code, GPIO, interrupts, and low-level toolchain workflows.",
+              "description": "Bare-metal STM32F446 projects built from scratch, covering startup code, GPIO, interrupts, and toolchain setup without any HAL.",
               "tags": [
                 "Bare Metal",
                 "STM32",
@@ -373,7 +373,7 @@
           "locales": {
             "en": {
               "title": "NSoC5.0 IoT Project Suite",
-              "description": "ESP32 IoT mini-project suite featuring WiFi server, Bluetooth control, OTA updates, sensor logging, and demos.",
+              "description": "A collection of ESP32 mini-projects covering WiFi, Bluetooth, OTA updates, and sensor logging, built for a student IoT workshop.",
               "tags": [
                 "ESP32",
                 "IoT",
@@ -382,7 +382,7 @@
             },
             "de": {
               "title": "NSoC5.0 IoT Project Suite",
-              "description": "ESP32 IoT mini-project suite featuring WiFi server, Bluetooth control, OTA updates, sensor logging, and demos.",
+              "description": "A collection of ESP32 mini-projects covering WiFi, Bluetooth, OTA updates, and sensor logging, built for a student IoT workshop.",
               "tags": [
                 "ESP32",
                 "IoT",
@@ -407,7 +407,7 @@
           "locales": {
             "en": {
               "title": "Quine-McCluskey Boolean Minimizer",
-              "description": "Python CLI and library implementation of the Quine-McCluskey algorithm to simplify Boolean expressions.",
+              "description": "Python implementation of the Quine-McCluskey algorithm, usable both as a CLI tool and as an importable library.",
               "tags": [
                 "Python",
                 "Digital Logic",
@@ -416,7 +416,7 @@
             },
             "de": {
               "title": "Quine-McCluskey Boolean Minimizer",
-              "description": "Python CLI and library implementation of the Quine-McCluskey algorithm to simplify Boolean expressions.",
+              "description": "Python implementation of the Quine-McCluskey algorithm, usable both as a CLI tool and as an importable library.",
               "tags": [
                 "Python",
                 "Digital Logic",
