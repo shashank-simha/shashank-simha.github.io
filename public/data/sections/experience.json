@@ -8,7 +8,7 @@
           "title": "Experience"
         },
         "de": {
-          "title": "Experience"
+          "title": "Berufserfahrung"
         }
       },
       "settings": {
@@ -50,18 +50,18 @@
               ]
             },
             "de": {
-              "title": "Working Student - Embedded Systems",
-              "description": "Motor control software on Automotive MCUs, both handcoded firmware and Model-Based Design approaches.",
+              "title": "Werkstudent - Embedded Systems",
+              "description": "Motorsteuerungssoftware auf Automotive-MCUs, sowohl handgeschriebene Firmware als auch modellbasierte Entwicklungsansätze.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Kernaufgaben:",
                 "items": [
-                  "Developed and maintained <strong>motor driver software</strong> for Aurix-based platforms.",
-                  "Implemented <strong>MATLAB/Simulink Model-Based Design</strong> for Aurix hardware.",
-                  "Developed advanced embedded interfaces, including <strong>current sensing</strong>."
+                  "Entwicklung und Wartung von <strong>Motor-Treibersoftware</strong> für Aurix-basierte Plattformen.",
+                  "Umsetzung von <strong>MATLAB/Simulink Model-Based Design</strong> für Aurix-Hardware.",
+                  "Entwicklung fortgeschrittener Embedded-Schnittstellen, darunter <strong>Strommessung</strong>."
                 ]
               },
-              "province": "Munich",
-              "country": "Germany",
+              "province": "München",
+              "country": "Deutschland",
               "institution": "Infineon Technologies",
               "tags": [
                 "Aurix",
@@ -98,7 +98,7 @@
               },
               "province": "Munich",
               "country": "Germany",
-              "institution": "BSH Hausgerate",
+              "institution": "BSH Hausgeräte",
               "tags": [
                 "Home Connect",
                 "Raspberry Pi",
@@ -106,19 +106,19 @@
               ]
             },
             "de": {
-              "title": "Working Student - IoT Architecture",
-              "description": "Erstellte die Home Connect-Referenzimplementierung von BSH und arbeitete an der Integration der Matter-Unterstützung in ein tatsächliches Gerät.",
+              "title": "Werkstudent - IoT-Architektur",
+              "description": "Erstellte die Home Connect-Referenzimplementierung von BSH und arbeitete an der Integration der Matter-Unterstützung in ein echtes Gerät.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Kernaufgaben:",
                 "items": [
-                  "Developed an OEM reference application for Home Connect Infrastructure.",
-                  "Simulated home appliances and backend on <strong>Raspberry Pi</strong> for customer demos.",
-                  "Integrated <strong>Matter specification</strong> with custom home-connect appliance."
+                  "Entwicklung einer OEM-Referenzanwendung für die Home-Connect-Infrastruktur.",
+                  "Simulation von Haushaltsgeräten und Backend auf dem <strong>Raspberry Pi</strong> für Kundendemos.",
+                  "Integration der <strong>Matter-Spezifikation</strong> in ein maßgeschneidertes Home-Connect-Gerät."
                 ]
               },
-              "province": "Munich",
-              "country": "Germany",
-              "institution": "BSH Hausgerate",
+              "province": "München",
+              "country": "Deutschland",
+              "institution": "BSH Hausgeräte",
               "tags": [
                 "Home Connect",
                 "Raspberry Pi",
@@ -162,18 +162,18 @@
               ]
             },
             "de": {
-              "title": "SoC Power Optimisation Engineer",
-              "description": "Verantwortlich für die Hibernate-Niedrigenergie-Funktion über mehrere Chip-Familien hinweg, Implementierung vorantreiben, Komponenten aus verschiedenen Teams integrieren und das Systemverhalten auf Energieebene analysieren.",
+              "title": "SoC Power Optimization Engineer",
+              "description": "Verantwortlich für das Hibernate-Low-Power-Feature über mehrere Chip-Familien hinweg: Implementierung vorantreiben, Komponenten aus verschiedenen Teams integrieren und das Energieverhalten auf Systemebene analysieren.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Kernaufgaben:",
                 "items": [
-                  "Developed low-power modes including <strong>Hibernate</strong> and <strong>DeepSleep</strong> for SoCs.",
-                  "Ported power-saving features across platforms with diverse hardware/software.",
-                  "Performed root cause analysis of system and rail-level power on SoCs."
+                  "Entwicklung von Low-Power-Modi wie <strong>Hibernate</strong> und <strong>DeepSleep</strong> für SoCs.",
+                  "Portierung von Energiesparfunktionen über Plattformen mit unterschiedlicher Hard- und Software.",
+                  "Durchführung von Root-Cause-Analysen des Energieverhaltens auf System- und Rail-Ebene bei SoCs."
                 ]
               },
               "province": "Hyderabad",
-              "country": "India",
+              "country": "Indien",
               "institution": "Qualcomm",
               "tags": [
                 "Low Power",
@@ -219,17 +219,17 @@
             },
             "de": {
               "title": "Embedded Software Engineer",
-              "description": "Audio feature development for a set of consumer prototype devices, working across chipsets with both on-SoC and external DSPs in the picture.",
+              "description": "Entwicklung von Audio-Features für eine Reihe von Consumer-Prototypgeräten über verschiedene Chipsets hinweg, mit On-SoC- und externen DSPs.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Kernaufgaben:",
                 "items": [
-                  "Developed audio features for devices using <strong>Qualcomm/MediaTek chipsets</strong>.",
-                  "Ported features across <strong>Android (AOSP) versions</strong>.",
-                  "Created APIs for on-SoC and external <strong>DSP communication</strong>."
+                  "Entwicklung von Audio-Features für Geräte mit <strong>Qualcomm/MediaTek-Chipsätzen</strong>.",
+                  "Portierung von Features über mehrere <strong>Android-(AOSP)-Versionen</strong>.",
+                  "Erstellung von APIs für die Kommunikation zwischen On-SoC- und externen <strong>DSPs</strong>."
                 ]
               },
               "province": "Bangalore",
-              "country": "India",
+              "country": "Indien",
               "institution": "PathPartner Technology",
               "tags": [
                 "Android",
@@ -249,7 +249,7 @@
           "title": "Internships"
         },
         "de": {
-          "title": "Internships"
+          "title": "Praktika"
         }
       },
       "settings": {
@@ -292,18 +292,18 @@
               ]
             },
             "de": {
-              "title": "Research Intern",
+              "title": "Forschungspraktikant",
               "description": "Arbeitete an der Verbesserung des Inferenzdurchsatzes für Automotive-Computer-Vision-Workloads durch Auslagerung auf dedizierte KI-Beschleuniger-Hardware.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Kernaufgaben:",
                 "items": [
-                  "Developed a <strong>compilation pipeline</strong> for Hailo AI accelerators.",
-                  "Developed an <strong>inference pipeline</strong> for Hailo AI accelerators on <strong>Raspberry Pi 5</strong>.",
-                  "Improved inference performance by about <strong>61x</strong> compared with normal CPU inference on Raspberry Pi."
+                  "Entwicklung einer <strong>Kompilierungs-Pipeline</strong> für Hailo-KI-Beschleuniger.",
+                  "Entwicklung einer <strong>Inferenz-Pipeline</strong> für Hailo-KI-Beschleuniger auf dem <strong>Raspberry Pi 5</strong>.",
+                  "Steigerung der Inferenzleistung um rund <strong>61x</strong> im Vergleich zur CPU-Inferenz auf dem Raspberry Pi."
                 ]
               },
-              "province": "Munich",
-              "country": "Germany",
+              "province": "München",
+              "country": "Deutschland",
               "institution": "Chair of ESI, TUM",
               "tags": [
                 "Computer Vision",
@@ -347,17 +347,17 @@
               ]
             },
             "de": {
-              "title": "Research Intern",
-              "description": "Untersuchte die Sicherheitsarchitektur für Multi-Roboter-Systeme, baute und programmierte die Roboter, bevor ein Multi-Core-Simplex-Ansatz vorgeschlagen wurde, um sie zu härten.",
+              "title": "Forschungspraktikant",
+              "description": "Untersuchte die Sicherheitsarchitektur für Multi-Roboter-Systeme, baute und programmierte die Roboter und schlug anschließend einen Multi-Core-Simplex-Ansatz vor, um ihre Sicherheit zu erhöhen.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Kernaufgaben:",
                 "items": [
-                  "Designed and programmed <strong>Delta</strong> and <strong>Omni-Directional</strong> robots.",
-                  "Proposed a <strong>multi-core simplex architecture</strong> for enhanced security."
+                  "Entwurf und Programmierung von <strong>Delta</strong>- und <strong>omnidirektionalen</strong> Robotern.",
+                  "Vorschlag einer <strong>Multi-Core-Simplex-Architektur</strong> zur erhöhten Sicherheit."
                 ]
               },
               "province": "Bangalore",
-              "country": "India",
+              "country": "Indien",
               "institution": "Indian Institute of Science",
               "tags": [
                 "Robotics",
@@ -401,17 +401,17 @@
               ]
             },
             "de": {
-              "title": "Summer Intern",
-              "description": "Localization problem on a mobile robot platform, solved using wireless signal-based trilateration.",
+              "title": "Sommerpraktikant",
+              "description": "Lokalisierungsproblem auf einer mobilen Roboterplattform, gelöst mit signalbasierter Trilateration über Funk.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Kernaufgaben:",
                 "items": [
-                  "Implemented <strong>RSSI-based trilateration</strong> for robot localization.",
-                  "Built a <strong>Zigbee-based self-localizing robot</strong> on <strong>TI-RSLK</strong>."
+                  "Implementierung von <strong>RSSI-basierter Trilateration</strong> zur Roboterlokalisierung.",
+                  "Aufbau eines <strong>Zigbee-basierten selbstlokalisierenden Roboters</strong> auf <strong>TI-RSLK</strong>."
                 ]
               },
               "province": "Bangalore",
-              "country": "India",
+              "country": "Indien",
               "institution": "Indian Institute of Science",
               "tags": [
                 "RSSI",

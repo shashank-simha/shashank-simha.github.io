@@ -14,10 +14,10 @@
           "nav_label": "About"
         },
         "de": {
-          "title": "Welcome to *my resume!*",
-          "title_short": "Welcome!",
+          "title": "Willkommen in *meinem Lebenslauf!*",
+          "title_short": "Willkommen!",
           "description": null,
-          "nav_label": "About"
+          "nav_label": "Über mich"
         }
       }
     },
@@ -35,10 +35,10 @@
           "nav_label": "Experience"
         },
         "de": {
-          "title": "*Professional* Experience",
+          "title": "*Berufliche* Erfahrung",
           "title_short": null,
-          "description": "A closer look at the roles where I worked close to hardware, firmware, and system-level debugging.",
-          "nav_label": "Experience"
+          "description": "Ein genauerer Blick auf die Rollen, in denen ich nahe an Hardware, Firmware und systemnaher Fehlersuche gearbeitet habe.",
+          "nav_label": "Erfahrung"
         }
       }
     },
@@ -56,10 +56,10 @@
           "nav_label": "Education"
         },
         "de": {
-          "title": "*Education* Background",
+          "title": "*Ausbildungs*weg",
           "title_short": null,
-          "description": "A brief overview of my academic journey, learning foundation, and key milestones along the way.",
-          "nav_label": "Education"
+          "description": "Ein kurzer Überblick über meinen akademischen Weg, meine Lernbasis und wichtige Meilensteine.",
+          "nav_label": "Ausbildung"
         }
       }
     },
@@ -77,10 +77,10 @@
           "nav_label": "Skills"
         },
         "de": {
-          "title": "Core *Skills*",
+          "title": "Zentrale *Kompetenzen*",
           "title_short": null,
-          "description": "An overview of the strengths, tools, and areas of expertise I have built through study, work, and hands-on experience.",
-          "nav_label": "Skills"
+          "description": "Ein Überblick über die Stärken, Werkzeuge und Fachgebiete, die ich durch Studium, Arbeit und praktische Erfahrung aufgebaut habe.",
+          "nav_label": "Kompetenzen"
         }
       }
     },
@@ -98,9 +98,9 @@
           "nav_label": "Portfolio"
         },
         "de": {
-          "title": "Selected *Projects*",
+          "title": "Ausgewählte *Projekte*",
           "title_short": null,
-          "description": "A selection of projects that reflect how I think, build, and bring ideas into practice.",
+          "description": "Eine Auswahl von Projekten, die zeigen, wie ich denke, entwickle und Ideen in die Praxis bringe.",
           "nav_label": "Portfolio"
         }
       }
@@ -119,10 +119,10 @@
           "nav_label": "Achievements"
         },
         "de": {
-          "title": "Key *Achievements*",
+          "title": "Wichtige *Erfolge*",
           "title_short": null,
-          "description": "Awards, recognitions, and certifications that highlight dedication, growth, and consistent performance.",
-          "nav_label": "Achievements"
+          "description": "Auszeichnungen, Anerkennungen und Zertifikate, die Engagement, Entwicklung und konstant gute Leistung zeigen.",
+          "nav_label": "Erfolge"
         }
       }
     },
@@ -140,10 +140,10 @@
           "nav_label": "Volunteering"
         },
         "de": {
-          "title": "*Leadership* & Volunteering",
+          "title": "*Leadership* & Engagement",
           "title_short": null,
-          "description": "Experiences that reflect leadership, initiative, and a willingness to contribute beyond formal roles.",
-          "nav_label": "Volunteering"
+          "description": "Erfahrungen, die Führung, Initiative und die Bereitschaft zeigen, über formale Rollen hinaus beizutragen.",
+          "nav_label": "Engagement"
         }
       }
     },
@@ -161,10 +161,10 @@
           "nav_label": "Contact"
         },
         "de": {
-          "title": "*Contact* Me",
+          "title": "*Kontakt*",
           "title_short": null,
-          "description": "Feel free to reach out for opportunities, collaborations, or simply to start a conversation.",
-          "nav_label": "Contact"
+          "description": "Melde dich gern für Chancen, Zusammenarbeit oder einfach für einen ersten Austausch.",
+          "nav_label": "Kontakt"
         }
       }
     }

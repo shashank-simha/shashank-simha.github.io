@@ -31,7 +31,7 @@
             },
             "de": {
               "title": "Master of Science in Communications and Electronics Engineering",
-              "description": "Ein intensives Masterprogramm, in dem ich mich auf Embedded- und IoT-Sicherheit sowie praktische Embedded-AI spezialisiere. Der Lehrplan konzentriert sich auf den Aufbau sicherer, intelligenter und effizienter vernetzter Systeme und bereitet mich direkt auf die nächste Generation hardware-naher Herausforderungen vor (<strong>Notendurchschnitt: 1,7</strong> auf der deutschen Skala).",
+              "description": "Ein Masterprogramm, in dem ich mich auf Embedded- und IoT-Sicherheit sowie Embedded-AI spezialisiere, mit Fokus auf hardwarenahe, sicherheitskritische Herausforderungen. (<strong>Notendurchschnitt: 1,7</strong> auf der deutschen Skala).",
               "province": "München",
               "country": "Deutschland",
               "institution": "Technische Universität München",
@@ -65,7 +65,7 @@
               "title": "Bachelor of Engineering in Electronics and Communication",
               "description": "Vier Jahre Aufbau einer soliden Grundlage in Elektronik, Kommunikationssystemen und eingebetteten Grundlagen, die sich gut in meine Karriere übertragen haben. (<strong>Notendurchschnitt: 9,08</strong> auf einer 10-Punkte-Skala).",
               "province": "Mysuru",
-              "country": "India",
+              "country": "Indien",
               "institution": "The National Institute of Engineering",
               "tags": []
             }
@@ -97,7 +97,7 @@
               "title": "Pre-University (11th and 12th)",
               "description": "Wählte den naturwissenschaftlichen Zweig mit Physik, Chemie und Mathematik. Abgeschlossen mit <strong>92,50%</strong>.",
               "province": "Mysuru",
-              "country": "India",
+              "country": "Indien",
               "institution": "Maharaja's Pre-University College",
               "tags": []
             }
@@ -127,9 +127,9 @@
             },
             "de": {
               "title": "Matriculation / School Education",
-              "description": "Primar- und Sekundarschule an der JSS, Abschluss der 10. Klasse mit <strong>92,80%</strong>.",
+              "description": "Primär- und Sekundarschule an der JSS, Abschluss der 10. Klasse mit <strong>92,80%</strong>.",
               "province": "Mysuru",
-              "country": "India",
+              "country": "Indien",
               "institution": "JSS High School",
               "tags": []
             }
