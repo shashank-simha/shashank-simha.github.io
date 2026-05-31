@@ -22,10 +22,10 @@
           "id": 1,
           "locales": {
             "en": {
-              "description": "I am an Embedded Systems Engineer and M.Sc. student at the Technical University of Munich, building reliable firmware and connected products from low-level drivers to system architecture."
+              "description": "I am an Embedded Systems Engineer and M.Sc. student at the Technical University of Munich. I enjoy working close to hardware and turning complex ideas into systems that are reliable, practical, and well thought through."
             },
             "de": {
-              "description": "I am an Embedded Systems Engineer and M.Sc. student at the Technical University of Munich, building reliable firmware and connected products from low-level drivers to system architecture."
+              "description": "I am an Embedded Systems Engineer and M.Sc. student at the Technical University of Munich. I enjoy working close to hardware and turning complex ideas into systems that are reliable, practical, and well thought through."
             }
           }
         },
@@ -33,10 +33,10 @@
           "id": 2,
           "locales": {
             "en": {
-              "description": "My experience spans Infineon, BSH, Qualcomm, and PathPartner, combined with IEEE leadership and hands-on project execution across motor control, IoT platforms, and SoC power optimization."
+              "description": "What I like most about embedded systems is the mix of low-level problem solving, system thinking, and the chance to build something that works dependably in the real world. I also enjoy working with people who care about building solid products with attention to detail. If that sounds like the kind of work you care about too, let's work together!"
             },
             "de": {
-              "description": "My experience spans Infineon, BSH, Qualcomm, and PathPartner, combined with IEEE leadership and hands-on project execution across motor control, IoT platforms, and SoC power optimization."
+              "description": "What I like most about embedded systems is the mix of low-level problem solving, system thinking, and the chance to build something that works dependably in the real world. I also enjoy working with people who care about building solid products with attention to detail. If that sounds like the kind of work you care about too, let's work together!"
             }
           }
         }
