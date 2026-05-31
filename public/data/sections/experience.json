@@ -142,8 +142,8 @@
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "SoC Power Optimisation Engineer",
-              "description": "Owned the Hibernate low-power feature across a few chip families, driving implementation, integrating components from different teams, and analysing system-level power behaviour.",
+              "title": "SoC Power Optimization Engineer",
+              "description": "Owned the Hibernate low-power feature across a few chip families, driving implementation, integrating components from different teams, and analyzing system-level power behavior.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [

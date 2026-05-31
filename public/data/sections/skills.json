@@ -103,7 +103,7 @@
           "locales": {
             "en": {
               "title": "Embedded Security and IoT",
-              "description": "Designing with security in mind across connected embedded systems, from threat modelling to secure communication.",
+              "description": "Designing with security in mind across connected embedded systems, from threat modeling to secure communication.",
               "level": null
             },
             "de": {
