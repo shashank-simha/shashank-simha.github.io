@@ -8,7 +8,7 @@
           "title": "Volunteering"
         },
         "de": {
-          "title": "Volunteering"
+          "title": "Engagement"
         }
       },
       "settings": {
@@ -40,9 +40,9 @@
             },
             "de": {
               "title": "Hub Incharge - Mysore",
-              "description": "Vertreten Mysuru unter dem Bangalore Section Student Activity Committee, Organisation von Veranstaltungen einschließlich des SAC General Body Meet, SYWL Congress 2019, IEEE Tech Day und Branch Counselors Meet.",
+              "description": "Vertretung von Mysuru im Student Activity Committee der Bangalore Section, inklusive Organisation von Veranstaltungen wie SAC General Body Meet, SYWL Congress 2019, IEEE Tech Day und Branch Counselors Meet.",
               "province": "Mysuru",
-              "country": "India",
+              "country": "Indien",
               "institution": "IEEE Bangalore Section SAC",
               "tags": []
             }
@@ -64,7 +64,7 @@
           "locales": {
             "en": {
               "title": "Student Coordinator",
-              "description": "Part of the Student Coordination Team, supporting webinars and online training initiatives while leading a small team to build the AISYWC'19 website.",
+              "description": "Part of the Student Coordination Team, supporting webinars and online training initiatives, while leading a small team to build the AISYWC'19 website.",
               "province": "India",
               "country": "India",
               "institution": "IEEE India Council",
@@ -72,9 +72,9 @@
             },
             "de": {
               "title": "Student Coordinator",
-              "description": "Teil des Student Coordination Teams, Unterstützung von Webinaren und Online-Schulungsinitiativen, während ein kleines Team zum Aufbau der AISYWC'19-Website geleitet wurde.",
-              "province": "India",
-              "country": "India",
+              "description": "Teil des Student Coordination Teams mit Unterstützung von Webinaren und Online-Schulungsinitiativen sowie Leitung eines kleinen Teams zum Aufbau der AISYWC'19-Website.",
+              "province": "Indien",
+              "country": "Indien",
               "institution": "IEEE India Council",
               "tags": []
             }
@@ -106,7 +106,7 @@
               "title": "Vice-Chairperson",
               "description": "Leitete ein 13-köpfiges Exekutivteam bei einem der besten IEEE R10-Studentenverbände und organisierte über das Jahr hinweg 70+ Veranstaltungen, 4 Feste und 2 Apps.",
               "province": "Mysuru",
-              "country": "India",
+              "country": "Indien",
               "institution": "NIE IEEE Student Branch",
               "tags": []
             }
@@ -136,9 +136,9 @@
             },
             "de": {
               "title": "Webmaster - 5GWF 2020",
-              "description": "Lead website developer for IEEE 5G World Forum 2020, a flagship event of the IEEE Future Networks Initiative.",
+              "description": "Leitender Website-Entwickler für das IEEE 5G World Forum 2020, ein Flaggschiff-Event der IEEE Future Networks Initiative.",
               "province": "India",
-              "country": "India",
+              "country": "Indien",
               "institution": "IEEE India Council",
               "tags": []
             }

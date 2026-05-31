@@ -28,7 +28,7 @@
             },
             "de": {
               "title": "Firmware Engineering",
-              "description": "Writing embedded firmware across the stack, from bare-metal drivers to application logic.",
+              "description": "Entwicklung von Embedded-Firmware über den gesamten Stack hinweg, von Bare-Metal-Treibern bis zur Applikationslogik.",
               "level": null
             }
           }
@@ -48,7 +48,7 @@
             },
             "de": {
               "title": "TinyAI on Edge Devices",
-              "description": "Running ML models on constrained hardware where compute and power budgets are tight.",
+              "description": "Ausführung von ML-Modellen auf ressourcenbegrenzter Hardware mit engem Rechen- und Energie-Budget.",
               "level": null
             }
           }
@@ -68,7 +68,7 @@
             },
             "de": {
               "title": "Hardware-Software Co-Design",
-              "description": "Working across the hardware-software boundary, using model-based approaches to make design decisions that hold up in practice.",
+              "description": "Arbeit an der Schnittstelle von Hard- und Software, mit modellbasierten Ansätzen für belastbare Designentscheidungen in der Praxis.",
               "level": null
             }
           }
@@ -88,7 +88,7 @@
             },
             "de": {
               "title": "Real-Time and Control Systems",
-              "description": "Building time-critical systems where predictable behavior is not optional.",
+              "description": "Entwicklung zeitkritischer Systeme, bei denen vorhersagbares Verhalten unverzichtbar ist.",
               "level": null
             }
           }
@@ -108,7 +108,7 @@
             },
             "de": {
               "title": "Embedded Security and IoT",
-              "description": "Designing with security in mind across connected embedded systems, from threat modelling to secure communication.",
+              "description": "Sicherheitsorientierte Entwicklung vernetzter Embedded-Systeme, von der Bedrohungsmodellierung bis zur sicheren Kommunikation.",
               "level": null
             }
           }
@@ -123,7 +123,7 @@
           "title": "Programming"
         },
         "de": {
-          "title": "Programming"
+          "title": "Programmierung"
         }
       },
       "settings": {
@@ -152,7 +152,7 @@
             },
             "de": {
               "title": "C, C++ and Embedded C",
-              "description": "The language I spend most of my time in, from low-level driver code to application logic."
+              "description": "Die Sprache, mit der ich am meisten arbeite - von Low-Level-Treiber-Code bis zur Applikationslogik."
             }
           }
         },
@@ -173,7 +173,7 @@
             },
             "de": {
               "title": "Python",
-              "description": "Go-to for scripting, tooling, and anything that doesn't need to run on bare metal."
+              "description": "Meine erste Wahl für Skripting, Tooling und alles, was nicht auf Bare Metal laufen muss."
             }
           }
         },
@@ -194,7 +194,7 @@
             },
             "de": {
               "title": "Java",
-              "description": "Used primarily on the Android side for feature development and platform integration."
+              "description": "Vor allem auf der Android-Seite für Feature-Entwicklung und Plattformintegration eingesetzt."
             }
           }
         },
@@ -215,7 +215,7 @@
             },
             "de": {
               "title": "Rust",
-              "description": "Still learning, but drawn to it for the memory safety guarantees in systems programming."
+              "description": "Ich lerne noch, finde Rust aber wegen seiner Speichersicherheits-Garantien für Systemprogrammierung sehr reizvoll."
             }
           }
         }
@@ -229,7 +229,7 @@
           "title": "Embedded Tech"
         },
         "de": {
-          "title": "Embedded Tech"
+          "title": "Embedded-Technologien"
         }
       },
       "settings": {
@@ -258,7 +258,7 @@
             },
             "de": {
               "title": "FreeRTOS",
-              "description": "Task scheduling and real-time firmware design on constrained microcontrollers."
+              "description": "Task-Scheduling und Echtzeit-Firmwaredesign auf ressourcenbegrenzten Mikrocontrollern."
             }
           }
         },
@@ -279,7 +279,7 @@
             },
             "de": {
               "title": "ROS2",
-              "description": "Multi-node robotics systems with inter-process communication and sensor integration."
+              "description": "Multi-Node-Robotiksysteme mit Interprozesskommunikation und Sensorintegration."
             }
           }
         },
@@ -300,7 +300,7 @@
             },
             "de": {
               "title": "Linux Device Drivers",
-              "description": "Kernel-level driver development and hardware bring-up on embedded Linux platforms."
+              "description": "Treiberentwicklung auf Kernel-Ebene und Hardware-Bootstrapping auf Embedded-Linux-Plattformen."
             }
           }
         },
@@ -321,7 +321,7 @@
             },
             "de": {
               "title": "I2C, SPI, CAN und UART",
-              "description": "Day-to-day protocols for peripheral integration and board bring-up."
+              "description": "Gängige Protokolle für Peripherieintegration und Board-Bootstrapping."
             }
           }
         },
@@ -342,7 +342,7 @@
             },
             "de": {
               "title": "Android Audio and Power",
-              "description": "Feature integration on the Android platform across audio subsystems and power management."
+              "description": "Feature-Integration auf der Android-Plattform über Audio-Subsysteme und Power-Management hinweg."
             }
           }
         }
@@ -356,7 +356,7 @@
           "title": "System Design"
         },
         "de": {
-          "title": "System Design"
+          "title": "Systementwurf"
         }
       },
       "settings": {
@@ -385,7 +385,7 @@
             },
             "de": {
               "title": "MATLAB and Simulink",
-              "description": "Used for model-based development and control system design, mostly in automotive embedded contexts."
+              "description": "Eingesetzt für modellbasierte Entwicklung und Regelungssystem-Entwurf, vor allem im Automotive-Embedded-Umfeld."
             }
           }
         }
@@ -399,7 +399,7 @@
           "title": "Hardware Design"
         },
         "de": {
-          "title": "Hardware Design"
+          "title": "Hardwareentwicklung"
         }
       },
       "settings": {
@@ -428,7 +428,7 @@
             },
             "de": {
               "title": "VHDL, Verilog and SystemC",
-              "description": "Digital logic design and hardware description, from spec through simulation and verification."
+              "description": "Digitallogik-Entwurf und Hardwarebeschreibung von der Spezifikation bis zu Simulation und Verifikation."
             }
           }
         },
@@ -449,7 +449,7 @@
             },
             "de": {
               "title": "KiCad",
-              "description": "Schematic capture and PCB layout for prototype boards."
+              "description": "Schaltplanerstellung und PCB-Layout für Prototypenplatinen."
             }
           }
         }
@@ -463,7 +463,7 @@
           "title": "Embedded Platforms"
         },
         "de": {
-          "title": "Embedded Platforms"
+          "title": "Embedded-Plattformen"
         }
       },
       "settings": {
@@ -493,7 +493,7 @@
             },
             "de": {
               "title": "ARM and RISC-V",
-              "description": "Familiar with both architectures across microcontroller and SoC contexts.",
+              "description": "Vertraut mit beiden Architekturen in Mikrocontroller- und SoC-Kontexten.",
               "level": null
             }
           }
@@ -515,7 +515,7 @@
             },
             "de": {
               "title": "Raspberry Pi",
-              "description": "Used across multiple projects for prototyping, edge inference, and appliance simulation."
+              "description": "In mehreren Projekten für Prototyping, Edge-Inferenz und Geräte-Simulation eingesetzt."
             }
           }
         },
@@ -536,7 +536,7 @@
             },
             "de": {
               "title": "ESP32 and ESP8266",
-              "description": "Connected firmware development with WiFi, Bluetooth, and sensor integration."
+              "description": "Entwicklung vernetzter Firmware mit WiFi, Bluetooth und Sensorintegration."
             }
           }
         },
@@ -557,7 +557,7 @@
             },
             "de": {
               "title": "STM32 and STM8",
-              "description": "Bare-metal and RTOS-based firmware on ST's microcontroller families."
+              "description": "Bare-Metal- und RTOS-basierte Firmware auf den Mikrocontroller-Familien von ST."
             }
           }
         }
@@ -571,7 +571,7 @@
           "title": "Languages"
         },
         "de": {
-          "title": "Languages"
+          "title": "Sprachen"
         }
       },
       "settings": {
@@ -597,9 +597,9 @@
               "level": "Professional"
             },
             "de": {
-              "title": "English",
-              "description": "Fluent in spoken and written English, comfortable in both academic and professional settings.",
-              "level": "Professional"
+              "title": "Englisch",
+              "description": "Fließend in Wort und Schrift, sicher in akademischen wie beruflichen Kontexten.",
+              "level": "Beruflich"
             }
           }
         },
@@ -619,8 +619,7 @@
             "de": {
               "title": "Kannada",
               "description": "Muttersprache.",
-
-              "level": "Native"
+              "level": "Muttersprachlich"
             }
           }
         },
@@ -638,9 +637,9 @@
               "level": "Basic"
             },
             "de": {
-              "title": "German",
-              "description": "Derzeit auf A2-Niveau, daran arbeitend.",
-              "level": "Basic"
+              "title": "Deutsch",
+              "description": "Derzeit auf A2-Niveau, ich arbeite daran.",
+              "level": "Grundkenntnisse"
             }
           }
         },
@@ -660,7 +659,7 @@
             "de": {
               "title": "Hindi",
               "description": "Konversationssicher, ausreichend für den Alltag und den Arbeitsplatz.",
-              "level": "Conversational"
+              "level": "Konversationssicher"
             }
           }
         }

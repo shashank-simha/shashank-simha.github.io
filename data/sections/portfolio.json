@@ -42,7 +42,7 @@
             },
             "de": {
               "title": "Adaptive Embedded Control System",
-              "description": "Fuzzy PID controller for an industrial furnace, with a wireless sensor network handling data aggregation and feeding into the control loop.",
+              "description": "Fuzzy-PID-Regler für einen Industrieofen, bei dem ein drahtloses Sensornetz die Daten aggregiert und in den Regelkreis einspeist.",
               "tags": [
                 "Embedded",
                 "Control Systems",
@@ -76,7 +76,7 @@
             },
             "de": {
               "title": "ECG Signal Compression Comparison",
-              "description": "Benchmarked three ECG compression algorithms, AZTEC, DCT, and Turning Point, against each other on compression ratio and how well the reconstructed signal holds up.",
+              "description": "Benchmark von drei EKG-Kompressionsalgorithmen - AZTEC, DCT und Turning Point - anhand von Kompressionsrate und Signalqualität nach Rekonstruktion.",
               "tags": [
                 "Signal Processing",
                 "Algorithms",
@@ -110,7 +110,7 @@
             },
             "de": {
               "title": "Presenter",
-              "description": "Android app that turns your phone into a presentation remote, synced to RevealJS and SlidesJS decks over Firebase.",
+              "description": "Android-App, die das Smartphone in eine Präsentationsfernbedienung verwandelt und über Firebase mit RevealJS- und SlidesJS-Decks synchronisiert.",
               "tags": [
                 "Android",
                 "Firebase",
@@ -144,7 +144,7 @@
             },
             "de": {
               "title": "Scheduling Algorithms Simulator",
-              "description": "C++ simulator that runs FCFS, Round Robin, SJN, and Priority scheduling algorithms and reports waiting time and turnaround metrics.",
+              "description": "C++-Simulator, der FCFS-, Round-Robin-, SJN- und Prioritäts-Scheduling ausführt und Wartezeit- sowie Turnaround-Metriken ausgibt.",
               "tags": [
                 "Operating Systems",
                 "Scheduling",
@@ -178,7 +178,7 @@
             },
             "de": {
               "title": "Smart Speed Governor",
-              "description": "IoT system that pulls GPS location and traffic density data to estimate the local speed limit and regulate vehicle speed accordingly.",
+              "description": "IoT-System, das GPS-Position und Verkehrsdichte auswertet, um das lokale Tempolimit zu schätzen und die Fahrzeuggeschwindigkeit entsprechend zu regeln.",
               "tags": [
                 "IoT",
                 "Raspberry Pi",
@@ -212,7 +212,7 @@
             },
             "de": {
               "title": "AISYWC 2018 Event Website",
-              "description": "Full conference website for an IEEE India Council flagship event, with schedule, speaker profiles, and online registration.",
+              "description": "Vollständige Konferenzwebsite für ein IEEE-India-Council-Flaggschiff-Event mit Zeitplan, Speaker-Profilen und Online-Registrierung.",
               "tags": [
                 "Web Development",
                 "JavaScript",
@@ -246,7 +246,7 @@
             },
             "de": {
               "title": "RSSI-based Localization Robot",
-              "description": "Mobile robot that navigates around to collect RSSI readings from a single beacon, estimates the beacon's position, and moves towards it autonomously.",
+              "description": "Mobiler Roboter, der RSSI-Werte eines einzelnen Beacons sammelt, dessen Position schätzt und sich autonom darauf zubewegt.",
               "tags": [
                 "Zigbee",
                 "Localization",
@@ -280,7 +280,7 @@
             },
             "de": {
               "title": "EmbeddedML",
-              "description": "A library that wraps popular embedded ML frameworks like AIfES and TinyML into a cleaner, reusable API across multiple targets including Arduino and ESP-IDF, with more platforms planned.",
+              "description": "Eine Bibliothek, die gängige Embedded-ML-Frameworks wie AIfES und TinyML in eine sauberere, wiederverwendbare API kapselt - für mehrere Targets inklusive Arduino und ESP-IDF, weitere Plattformen sind geplant.",
               "tags": [
                 "Embedded ML",
                 "ESP32",
@@ -314,7 +314,7 @@
             },
             "de": {
               "title": "STM32 FreeRTOS Examples",
-              "description": "A set of hands-on FreeRTOS exercises on STM32F446, working through tasks, semaphores, mutexes, queues, and scheduling patterns.",
+              "description": "Eine praxisnahe Sammlung von FreeRTOS-Übungen auf STM32F446 mit Tasks, Semaphoren, Mutexen, Queues und Scheduling-Mustern.",
               "tags": [
                 "FreeRTOS",
                 "STM32",
@@ -348,7 +348,7 @@
             },
             "de": {
               "title": "STM32 Bare-Metal Development",
-              "description": "Bare-metal STM32F446 projects built from scratch, covering startup code, GPIO, interrupts, and toolchain setup without any HAL.",
+              "description": "Bare-Metal-Projekte auf STM32F446 von Grund auf, inklusive Startup-Code, GPIO, Interrupts und Toolchain-Setup ohne HAL.",
               "tags": [
                 "Bare Metal",
                 "STM32",
@@ -382,7 +382,7 @@
             },
             "de": {
               "title": "NSoC5.0 IoT Project Suite",
-              "description": "A collection of ESP32 mini-projects covering WiFi, Bluetooth, OTA updates, and sensor logging, built for a student IoT workshop.",
+              "description": "Eine Sammlung von ESP32-Miniprojekten zu WiFi, Bluetooth, OTA-Updates und Sensor-Logging, entwickelt für einen studentischen IoT-Workshop.",
               "tags": [
                 "ESP32",
                 "IoT",
@@ -416,7 +416,7 @@
             },
             "de": {
               "title": "Quine-McCluskey Boolean Minimizer",
-              "description": "Python implementation of the Quine-McCluskey algorithm, usable both as a CLI tool and as an importable library.",
+              "description": "Python-Implementierung des Quine-McCluskey-Algorithmus, nutzbar sowohl als CLI-Tool als auch als importierbare Bibliothek.",
               "tags": [
                 "Python",
                 "Digital Logic",
