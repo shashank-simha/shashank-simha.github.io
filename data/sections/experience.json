@@ -31,14 +31,13 @@
           "locales": {
             "en": {
               "title": "Working Student - Embedded Systems",
-              "description": "Built and validated <strong>motor control firmware</strong> on Aurix MCUs, translating model-based concepts into production-grade embedded software.",
+              "description": "Motor control software on Automotive MCUs, both handcoded firmware and Model-Based Design approaches.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
                   "Developed and maintained <strong>motor driver software</strong> for Aurix-based platforms.",
-                  "Implemented <strong>MATLAB/Simulink model-based design</strong> workflows for control logic integration.",
-                  "Designed and tuned <strong>current sensing interfaces</strong> for robust real-time control.",
-                  "Collaborated across firmware and system teams to improve performance, reliability, and maintainability."
+                  "Implemented <strong>MATLAB/Simulink Model-Based Design</strong> for Aurix hardware.",
+                  "Developed advanced embedded interfaces, including <strong>current sensing</strong>."
                 ]
               },
               "province": "Munich",
@@ -52,14 +51,13 @@
             },
             "de": {
               "title": "Working Student - Embedded Systems",
-              "description": "Built and validated <strong>motor control firmware</strong> on Aurix MCUs, translating model-based concepts into production-grade embedded software.",
+              "description": "Motor control software on Automotive MCUs, both handcoded firmware and Model-Based Design approaches.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
                   "Developed and maintained <strong>motor driver software</strong> for Aurix-based platforms.",
-                  "Implemented <strong>MATLAB/Simulink model-based design</strong> workflows for control logic integration.",
-                  "Designed and tuned <strong>current sensing interfaces</strong> for robust real-time control.",
-                  "Collaborated across firmware and system teams to improve performance, reliability, and maintainability."
+                  "Implemented <strong>MATLAB/Simulink Model-Based Design</strong> for Aurix hardware.",
+                  "Developed advanced embedded interfaces, including <strong>current sensing</strong>."
                 ]
               },
               "province": "Munich",
@@ -89,14 +87,13 @@
           "locales": {
             "en": {
               "title": "Working Student - IoT Architecture",
-              "description": "Delivered an OEM-focused <strong>IoT reference application</strong> for Home Connect and accelerated product storytelling through realistic appliance-cloud simulations.",
+              "description": "Built out BSH's Home Connect reference implementation and worked on integrating Matter support into an actual appliance.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Built and evolved a <strong>Home Connect reference application</strong> for partner/OEM adoption.",
-                  "Simulated appliances and backend workflows on <strong>Raspberry Pi</strong> for customer demos.",
-                  "Integrated <strong>Matter specification</strong> capabilities into smart-home prototypes.",
-                  "Supported cross-team architecture discussions spanning device, cloud, and integration layers."
+                  "Developed an OEM reference application for Home Connect Infrastructure.",
+                  "Simulated home appliances and backend on <strong>Raspberry Pi</strong> for customer demos.",
+                  "Integrated <strong>Matter specification</strong> with custom home-connect appliance."
                 ]
               },
               "province": "Munich",
@@ -110,14 +107,13 @@
             },
             "de": {
               "title": "Working Student - IoT Architecture",
-              "description": "Delivered an OEM-focused <strong>IoT reference application</strong> for Home Connect and accelerated product storytelling through realistic appliance-cloud simulations.",
+              "description": "Erstellte die Home Connect-Referenzimplementierung von BSH und arbeitete an der Integration der Matter-Unterstützung in ein tatsächliches Gerät.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Built and evolved a <strong>Home Connect reference application</strong> for partner/OEM adoption.",
-                  "Simulated appliances and backend workflows on <strong>Raspberry Pi</strong> for customer demos.",
-                  "Integrated <strong>Matter specification</strong> capabilities into smart-home prototypes.",
-                  "Supported cross-team architecture discussions spanning device, cloud, and integration layers."
+                  "Developed an OEM reference application for Home Connect Infrastructure.",
+                  "Simulated home appliances and backend on <strong>Raspberry Pi</strong> for customer demos.",
+                  "Integrated <strong>Matter specification</strong> with custom home-connect appliance."
                 ]
               },
               "province": "Munich",
@@ -147,14 +143,13 @@
           "locales": {
             "en": {
               "title": "SoC Power Optimisation Engineer",
-              "description": "Engineered <strong>SoC power optimizations</strong> across multiple platforms, with focus on deep sleep behaviors and measurable rail-level efficiency improvements.",
+              "description": "Owned the Hibernate low-power feature across a few chip families, driving implementation, integrating components from different teams, and analysing system-level power behaviour.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Implemented low-power modes including <strong>Hibernate</strong> and <strong>DeepSleep</strong>.",
-                  "Ported power features across product variants with differing hardware/software stacks.",
-                  "Performed <strong>rail-level root cause analysis</strong> for system power anomalies.",
-                  "Worked closely with validation teams to confirm power targets and stability under real workloads."
+                  "Developed low-power modes including <strong>Hibernate</strong> and <strong>DeepSleep</strong> for SoCs.",
+                  "Ported power-saving features across platforms with diverse hardware/software.",
+                  "Performed root cause analysis of system and rail-level power on SoCs."
                 ]
               },
               "province": "Hyderabad",
@@ -168,14 +163,13 @@
             },
             "de": {
               "title": "SoC Power Optimisation Engineer",
-              "description": "Engineered <strong>SoC power optimizations</strong> across multiple platforms, with focus on deep sleep behaviors and measurable rail-level efficiency improvements.",
+              "description": "Verantwortlich für die Hibernate-Niedrigenergie-Funktion über mehrere Chip-Familien hinweg, Implementierung vorantreiben, Komponenten aus verschiedenen Teams integrieren und das Systemverhalten auf Energieebene analysieren.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Implemented low-power modes including <strong>Hibernate</strong> and <strong>DeepSleep</strong>.",
-                  "Ported power features across product variants with differing hardware/software stacks.",
-                  "Performed <strong>rail-level root cause analysis</strong> for system power anomalies.",
-                  "Worked closely with validation teams to confirm power targets and stability under real workloads."
+                  "Developed low-power modes including <strong>Hibernate</strong> and <strong>DeepSleep</strong> for SoCs.",
+                  "Ported power-saving features across platforms with diverse hardware/software.",
+                  "Performed root cause analysis of system and rail-level power on SoCs."
                 ]
               },
               "province": "Hyderabad",
@@ -205,14 +199,13 @@
           "locales": {
             "en": {
               "title": "Embedded Software Engineer",
-              "description": "Delivered <strong>embedded audio software</strong> for commercial Android platforms, bridging SoC-level capabilities with product-level feature requirements.",
+              "description": "Audio feature development for a set of consumer prototype devices, working across chipsets with both on-SoC and external DSPs in the picture.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Implemented and optimized audio features for <strong>Qualcomm</strong> and <strong>MediaTek</strong> based devices.",
-                  "Ported capabilities across multiple <strong>AOSP versions</strong> and device configurations.",
-                  "Designed APIs for communication between on-SoC and external <strong>DSP components</strong>.",
-                  "Debugged integration issues across HAL, framework, and vendor layers for production readiness."
+                  "Developed audio features for devices using <strong>Qualcomm/MediaTek chipsets</strong>.",
+                  "Ported features across <strong>Android (AOSP) versions</strong>.",
+                  "Created APIs for on-SoC and external <strong>DSP communication</strong>."
                 ]
               },
               "province": "Bangalore",
@@ -226,14 +219,13 @@
             },
             "de": {
               "title": "Embedded Software Engineer",
-              "description": "Delivered <strong>embedded audio software</strong> for commercial Android platforms, bridging SoC-level capabilities with product-level feature requirements.",
+              "description": "Audio feature development for a set of consumer prototype devices, working across chipsets with both on-SoC and external DSPs in the picture.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Implemented and optimized audio features for <strong>Qualcomm</strong> and <strong>MediaTek</strong> based devices.",
-                  "Ported capabilities across multiple <strong>AOSP versions</strong> and device configurations.",
-                  "Designed APIs for communication between on-SoC and external <strong>DSP components</strong>.",
-                  "Debugged integration issues across HAL, framework, and vendor layers for production readiness."
+                  "Developed audio features for devices using <strong>Qualcomm/MediaTek chipsets</strong>.",
+                  "Ported features across <strong>Android (AOSP) versions</strong>.",
+                  "Created APIs for on-SoC and external <strong>DSP communication</strong>."
                 ]
               },
               "province": "Bangalore",
@@ -281,13 +273,13 @@
           "locales": {
             "en": {
               "title": "Research Intern",
-              "description": "Worked on <strong>automotive computer vision</strong> pipelines mapped to AI hardware accelerators, focusing on practical embedded deployment constraints.",
+              "description": "Worked on improving inference throughput for automotive computer vision workloads by offloading to dedicated AI accelerator hardware.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Analyzed model and pipeline suitability for <strong>automotive vision</strong> use cases.",
-                  "Evaluated mapping strategies onto <strong>AI hardware accelerators</strong>.",
-                  "Supported performance-focused experimentation across real deployment scenarios."
+                  "Developed a <strong>compilation pipeline</strong> for Hailo AI accelerators.",
+                  "Developed an <strong>inference pipeline</strong> for Hailo AI accelerators on <strong>Raspberry Pi 5</strong>.",
+                  "Improved inference performance by about <strong>61x</strong> compared with normal CPU inference on Raspberry Pi."
                 ]
               },
               "province": "Munich",
@@ -301,13 +293,13 @@
             },
             "de": {
               "title": "Research Intern",
-              "description": "Worked on <strong>automotive computer vision</strong> pipelines mapped to AI hardware accelerators, focusing on practical embedded deployment constraints.",
+              "description": "Arbeitete an der Verbesserung des Inferenzdurchsatzes für Automotive-Computer-Vision-Workloads durch Auslagerung auf dedizierte KI-Beschleuniger-Hardware.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Analyzed model and pipeline suitability for <strong>automotive vision</strong> use cases.",
-                  "Evaluated mapping strategies onto <strong>AI hardware accelerators</strong>.",
-                  "Supported performance-focused experimentation across real deployment scenarios."
+                  "Developed a <strong>compilation pipeline</strong> for Hailo AI accelerators.",
+                  "Developed an <strong>inference pipeline</strong> for Hailo AI accelerators on <strong>Raspberry Pi 5</strong>.",
+                  "Improved inference performance by about <strong>61x</strong> compared with normal CPU inference on Raspberry Pi."
                 ]
               },
               "province": "Munich",
@@ -337,13 +329,12 @@
           "locales": {
             "en": {
               "title": "Research Intern",
-              "description": "Contributed to <strong>security architecture</strong> work in multi-robot environments with emphasis on system-level robustness.",
+              "description": "Explored security architecture for multi-robot systems, building and programming the robots before proposing a multi-core simplex approach to harden them.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Studied and proposed architecture patterns for <strong>multi-robot security</strong>.",
-                  "Evaluated trade-offs across communication, compute partitioning, and fault behavior.",
-                  "Documented findings for iterative design and validation."
+                  "Designed and programmed <strong>Delta</strong> and <strong>Omni-Directional</strong> robots.",
+                  "Proposed a <strong>multi-core simplex architecture</strong> for enhanced security."
                 ]
               },
               "province": "Bangalore",
@@ -357,13 +348,12 @@
             },
             "de": {
               "title": "Research Intern",
-              "description": "Contributed to <strong>security architecture</strong> work in multi-robot environments with emphasis on system-level robustness.",
+              "description": "Untersuchte die Sicherheitsarchitektur für Multi-Roboter-Systeme, baute und programmierte die Roboter, bevor ein Multi-Core-Simplex-Ansatz vorgeschlagen wurde, um sie zu härten.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Studied and proposed architecture patterns for <strong>multi-robot security</strong>.",
-                  "Evaluated trade-offs across communication, compute partitioning, and fault behavior.",
-                  "Documented findings for iterative design and validation."
+                  "Designed and programmed <strong>Delta</strong> and <strong>Omni-Directional</strong> robots.",
+                  "Proposed a <strong>multi-core simplex architecture</strong> for enhanced security."
                 ]
               },
               "province": "Bangalore",
@@ -393,13 +383,12 @@
           "locales": {
             "en": {
               "title": "Summer Intern",
-              "description": "Built localization-focused embedded prototypes using <strong>RSSI-based trilateration</strong> for robotics contexts.",
+              "description": "Localization problem on a mobile robot platform, solved using wireless signal-based trilateration.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Implemented <strong>RSSI trilateration</strong> logic for robot localization experiments.",
-                  "Worked on Zigbee-enabled self-localizing robot workflows using TI-RSLK components.",
-                  "Validated baseline accuracy in controlled test environments."
+                  "Implemented <strong>RSSI-based trilateration</strong> for robot localization.",
+                  "Built a <strong>Zigbee-based self-localizing robot</strong> on <strong>TI-RSLK</strong>."
                 ]
               },
               "province": "Bangalore",
@@ -413,13 +402,12 @@
             },
             "de": {
               "title": "Summer Intern",
-              "description": "Built localization-focused embedded prototypes using <strong>RSSI-based trilateration</strong> for robotics contexts.",
+              "description": "Localization problem on a mobile robot platform, solved using wireless signal-based trilateration.",
               "list": {
                 "title": "Key Responsibilities:",
                 "items": [
-                  "Implemented <strong>RSSI trilateration</strong> logic for robot localization experiments.",
-                  "Worked on Zigbee-enabled self-localizing robot workflows using TI-RSLK components.",
-                  "Validated baseline accuracy in controlled test environments."
+                  "Implemented <strong>RSSI-based trilateration</strong> for robot localization.",
+                  "Built a <strong>Zigbee-based self-localizing robot</strong> on <strong>TI-RSLK</strong>."
                 ]
               },
               "province": "Bangalore",
