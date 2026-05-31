@@ -8,7 +8,7 @@
           "title": "Achievements"
         },
         "de": {
-          "title": "Achievements"
+          "title": "Erfolge"
         }
       },
       "settings": {
@@ -54,7 +54,7 @@
             },
             "de": {
               "title": "Outstanding Student Volunteer",
-              "description": "Recognized by IEEE India Council for volunteer contributions in 2020.",
+              "description": "Vom IEEE India Council für ehrenamtliche Beiträge im Jahr 2020 ausgezeichnet.",
               "institution": "IEEE India Council"
             }
           },
@@ -76,7 +76,7 @@
             },
             "de": {
               "title": "Outstanding Student Volunteer",
-              "description": "Recognized by IEEE Bangalore Section for volunteer contributions in 2019.",
+              "description": "Von der IEEE Bangalore Section für ehrenamtliche Beiträge im Jahr 2019 ausgezeichnet.",
               "institution": "IEEE Bangalore Section"
             }
           },
@@ -119,8 +119,8 @@
               "institution": "NMMS"
             },
             "de": {
-              "title": "State-wise 2nd Rank",
-              "description": "Secured 2nd rank statewide in the National Means-cum-Merit Scholarship Exam.",
+              "title": "Landesweit Rang 2",
+              "description": "Landesweit den 2. Rang in der National Means-cum-Merit Scholarship Exam erreicht.",
               "institution": "NMMS"
             }
           },
@@ -136,7 +136,7 @@
           "title": "Certifications"
         },
         "de": {
-          "title": "Certifications"
+          "title": "Zertifikate"
         }
       },
       "settings": {
@@ -160,7 +160,7 @@
             },
             "de": {
               "title": "Embedding Sensors & Motors Specialization",
-              "description": "Covers sensor selection, signal chain design, hardware schematics, and firmware development for real-time embedded systems.",
+              "description": "Behandelt Sensorauswahl, Signalpfad-Design, Hardwareschaltpläne und Firmwareentwicklung für Echtzeit-Embedded-Systeme.",
               "institution": "Coursera (University of Colorado Boulder)"
             }
           },
@@ -187,7 +187,7 @@
             },
             "de": {
               "title": "Secure Embedded Systems Specialization",
-              "description": "Covers embedded hardware, IoT connectivity, real-time systems, and security practices. Capstone involved building an autonomous runway detection system on FreeRTOS.",
+              "description": "Behandelt Embedded-Hardware, IoT-Konnektivität, Echtzeitsysteme und Sicherheitspraktiken. Das Capstone-Projekt umfasste den Aufbau eines autonomen Runway-Detection-Systems auf FreeRTOS.",
               "institution": "Coursera (EIT Digital)"
             }
           },
