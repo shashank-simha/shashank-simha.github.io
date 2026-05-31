@@ -23,7 +23,7 @@
           "locales": {
             "en": {
               "title": "Master of Science in Communications and Electronics Engineering",
-              "description": "Graduate program focused on embedded systems, secure IoT architecture, and SoC technologies at TUM (CGPA: 1.7 on German scale).",
+              "description": "A master's program where I'm specializing in Embedded and IoT Security alongside Embedded AI, focused on hardware-close, security-critical challenges. (<strong>CGPA: 1.7</strong> on the German scale).",
               "province": "Munich",
               "country": "Germany",
               "institution": "Technical University of Munich",
@@ -31,10 +31,10 @@
             },
             "de": {
               "title": "Master of Science in Communications and Electronics Engineering",
-              "description": "Graduate program focused on embedded systems, secure IoT architecture, and SoC technologies at TUM (CGPA: 1.7 on German scale).",
-              "province": "Munich",
-              "country": "Germany",
-              "institution": "Technical University of Munich",
+              "description": "Ein intensives Masterprogramm, in dem ich mich auf Embedded- und IoT-Sicherheit sowie praktische Embedded-AI spezialisiere. Der Lehrplan konzentriert sich auf den Aufbau sicherer, intelligenter und effizienter vernetzter Systeme und bereitet mich direkt auf die nächste Generation hardware-naher Herausforderungen vor (<strong>Notendurchschnitt: 1,7</strong> auf der deutschen Skala).",
+              "province": "München",
+              "country": "Deutschland",
+              "institution": "Technische Universität München",
               "tags": []
             }
           }
@@ -55,7 +55,7 @@
           "locales": {
             "en": {
               "title": "Bachelor of Engineering in Electronics and Communication",
-              "description": "Undergraduate engineering degree with strong foundations in electronics, communication systems, and core embedded fundamentals at NIE (CGPA: 9.08 on 10-point scale).",
+              "description": "Four years building a solid foundation in electronics, communication systems, and embedded fundamentals that have carried forward well into my career. (<strong>CGPA: 9.08</strong> on 10-point scale).",
               "province": "Mysuru",
               "country": "India",
               "institution": "The National Institute of Engineering",
@@ -63,7 +63,7 @@
             },
             "de": {
               "title": "Bachelor of Engineering in Electronics and Communication",
-              "description": "Undergraduate engineering degree with strong foundations in electronics, communication systems, and core embedded fundamentals at NIE (CGPA: 9.08 on 10-point scale).",
+              "description": "Vier Jahre Aufbau einer soliden Grundlage in Elektronik, Kommunikationssystemen und eingebetteten Grundlagen, die sich gut in meine Karriere übertragen haben. (<strong>Notendurchschnitt: 9,08</strong> auf einer 10-Punkte-Skala).",
               "province": "Mysuru",
               "country": "India",
               "institution": "The National Institute of Engineering",
@@ -87,7 +87,7 @@
           "locales": {
             "en": {
               "title": "Pre-University (11th and 12th)",
-              "description": "Completed pre-university education (11th and 12th) at Maharaja's Pre-University College with a 12th score of 92.50%.",
+              "description": "Chose the Science stream with Physics, Chemistry, and Mathematics. Finished with <strong>92.50%</strong>.",
               "province": "Mysuru",
               "country": "India",
               "institution": "Maharaja's Pre-University College",
@@ -95,7 +95,7 @@
             },
             "de": {
               "title": "Pre-University (11th and 12th)",
-              "description": "Completed pre-university education (11th and 12th) at Maharaja's Pre-University College with a 12th score of 92.50%.",
+              "description": "Wählte den naturwissenschaftlichen Zweig mit Physik, Chemie und Mathematik. Abgeschlossen mit <strong>92,50%</strong>.",
               "province": "Mysuru",
               "country": "India",
               "institution": "Maharaja's Pre-University College",
@@ -119,7 +119,7 @@
           "locales": {
             "en": {
               "title": "Matriculation / School Education",
-              "description": "Completed primary and high school education at JSS High School with a 10th score of 92.80%.",
+              "description": "Primary and high school at JSS, finishing 10th grade with <strong>92.80%</strong>.",
               "province": "Mysuru",
               "country": "India",
               "institution": "JSS High School",
@@ -127,7 +127,7 @@
             },
             "de": {
               "title": "Matriculation / School Education",
-              "description": "Completed primary and high school education at JSS High School with a 10th score of 92.80%.",
+              "description": "Primar- und Sekundarschule an der JSS, Abschluss der 10. Klasse mit <strong>92,80%</strong>.",
               "province": "Mysuru",
               "country": "India",
               "institution": "JSS High School",

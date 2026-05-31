@@ -20,19 +20,19 @@
           "id": 1,
           "dateStart": {
             "year": 2020,
-            "month": 8
+            "month": 7
           },
           "fallbackFaIcon": "fa-solid fa-award",
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
               "title": "Top 5% of Graduating Class",
-              "description": "Ranked in the top 5% of the 2020 graduating class at NIE.",
+              "description": "Finished in the top 5% of the 2020 batch at NIE.",
               "institution": "The National Institute of Engineering"
             },
             "de": {
-              "title": "Top 5% of Graduating Class",
-              "description": "Ranked in the top 5% of the 2020 graduating class at NIE.",
+              "title": "Top 5% des Jahrgangs",
+              "description": "Abschluss in den Top 5% des Jahrgangs 2020 am NIE.",
               "institution": "The National Institute of Engineering"
             }
           },
@@ -42,7 +42,7 @@
           "id": 2,
           "dateStart": {
             "year": 2020,
-            "month": 12
+            "month": 11
           },
           "fallbackFaIcon": "fa-solid fa-award",
           "fallbackFaIconColor": null,
@@ -64,7 +64,7 @@
           "id": 3,
           "dateStart": {
             "year": 2019,
-            "month": 12
+            "month": 11
           },
           "fallbackFaIcon": "fa-solid fa-award",
           "fallbackFaIconColor": null,
@@ -86,20 +86,42 @@
           "id": 4,
           "dateStart": {
             "year": 2018,
-            "month": 10
+            "month": 9
           },
           "fallbackFaIcon": "fa-solid fa-trophy",
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
               "title": "Best Website Award",
-              "description": "Awarded for AISYWC'18 website development contribution.",
+              "description": "Awarded for the AISYWC'18 conference website I built and deployed.",
               "institution": "AISYWC'18"
             },
             "de": {
               "title": "Best Website Award",
-              "description": "Awarded for AISYWC'18 website development contribution.",
+              "description": "Ausgezeichnet für die AISYWC'18 Konferenzwebsite, die ich erstellt und bereitgestellt habe.",
               "institution": "AISYWC'18"
+            }
+          },
+          "links": []
+        },
+        {
+          "id": 5,
+          "dateStart": {
+            "year": 2011,
+            "month": 5
+          },
+          "fallbackFaIcon": "fa-solid fa-award",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "State-wise 2nd Rank",
+              "description": "Secured 2nd rank statewide in the National Means-cum-Merit Scholarship Exam.",
+              "institution": "NMMS"
+            },
+            "de": {
+              "title": "State-wise 2nd Rank",
+              "description": "Secured 2nd rank statewide in the National Means-cum-Merit Scholarship Exam.",
+              "institution": "NMMS"
             }
           },
           "links": []
@@ -126,19 +148,19 @@
           "id": 1,
           "dateStart": {
             "year": 2020,
-            "month": 10
+            "month": 9
           },
           "fallbackFaIcon": "fa-solid fa-certificate",
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "Embedded Sensors & Motors Specialization",
-              "description": "Completed Coursera specialization focused on embedded sensors, motor control concepts, and practical embedded systems foundations.",
+              "title": "Embedding Sensors & Motors Specialization",
+              "description": "Covers sensor selection, signal chain design, hardware schematics, and firmware development for real-time embedded systems.",
               "institution": "Coursera (University of Colorado Boulder)"
             },
             "de": {
-              "title": "Embedded Sensors & Motors Specialization",
-              "description": "Completed Coursera specialization focused on embedded sensors, motor control concepts, and practical embedded systems foundations.",
+              "title": "Embedding Sensors & Motors Specialization",
+              "description": "Covers sensor selection, signal chain design, hardware schematics, and firmware development for real-time embedded systems.",
               "institution": "Coursera (University of Colorado Boulder)"
             }
           },
@@ -153,19 +175,19 @@
           "id": 2,
           "dateStart": {
             "year": 2020,
-            "month": 5
+            "month": 4
           },
           "fallbackFaIcon": "fa-solid fa-certificate",
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
               "title": "Secure Embedded Systems Specialization",
-              "description": "Completed Coursera specialization on secure embedded systems, covering threat-aware design and embedded security practices.",
+              "description": "Covers embedded hardware, IoT connectivity, real-time systems, and security practices. Capstone involved building an autonomous runway detection system on FreeRTOS.",
               "institution": "Coursera (EIT Digital)"
             },
             "de": {
               "title": "Secure Embedded Systems Specialization",
-              "description": "Completed Coursera specialization on secure embedded systems, covering threat-aware design and embedded security practices.",
+              "description": "Covers embedded hardware, IoT connectivity, real-time systems, and security practices. Capstone involved building an autonomous runway detection system on FreeRTOS.",
               "institution": "Coursera (EIT Digital)"
             }
           },
